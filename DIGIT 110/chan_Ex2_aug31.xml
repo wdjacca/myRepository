@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Revised version of Ex. 1-->
+<text>
+    <para type="header"><person type="sender" who="#JC">Coffin</person>, a member of the
+            <organization>American Anti-Slavery Society</organization>, writes to
+            <position>author</position> and <position>abolitionist</position>
+        <person who="#LMC">Lydia Maria Child</person> about <person who="#HJ"> Harriet Jacobs</person>. <quote>I hope you
+            will call &amp; see, if she is now in the city, one of the most interesting cases of
+            escape from slavery that you have ever seen.</quote>
+    </para>
+    <letter>
+        <dateline><location acro="s#Philadelphia">Phila.</location>
+        <date format="1842-06-25">25 June 1842</date></dateline>
+        <greeting>Esteemed Friend,</greeting>
+        <content>
+            <sent>... I hope you will call &amp; see, if she is now in the city, one of the most
+                interesting cases of escape from slavery that you have ever seen.</sent>
+            <sent>She was sent from this city <time>yesterday morning</time> &amp;' consigned to
+                    <person who="#johnston">Mr. Johnston.</person></sent>
+            <sent>She is from <location acro="#North Carolina">N.C.</location> was brought away by a
+                    <position>sea captain</position>. She was sold by her
+                    <position>master</position> to the <position>speculators</position> &amp; to
+                avoid being sent away she was hidden for <time frame="year">7 years</time>! in a
+                small upper room of a house occupied by colored people &amp; within <unit
+                    type="yard">a hundred yards</unit> of her <position>master's</position> house,
+                who did not know she was there.</sent>
+            <sent>She had not seen her boy, for <time frame="year">7 years</time> till within <time
+                    frame="day">3 days</time> of her coming away.</sent>
+            <sent>She has been shut up so long that she can hardly walk. Another woman was brought
+                away from <location acro="#Delaware">Delaware</location>, who was found tied to a tree.</sent>
+            <sent>If <person who="#Johnston">Mr. Johnston</person> was the man he ought to be, he would invite you
+                occasionally to see some of these remarkable cases, which are continually passing
+                from <location acro="#Philadelphia">Phil.</location> to <location acro="#New York"
+                    >N.Y.</location></sent>
+            <sent><word type="strikeout">The Vagrant</word> what a queer mistake. <organization>The
+                    Vigilance Committee</organization> of this city are doing a fine business in
+                weakening &amp; delapidating the edifice of slavery.</sent>
+            <sent>Success to them...</sent>
+        </content>
+        <person type="sender" who="#JC">Joshua Coffin</person>
+    </letter>
+    <para type="footnote">
+        <heading>Citation:</heading>
+        <cite>Autograph letter, signed; Anti-Slavery Collection, <location acro="#Boston">Boston
+                Public Library</location>; Lydia Maria Child Papers, The Collected Correspondence of
+            Lydia Maria Child, <time duration="73 years">1817-1880</time>, ed. <person who="#PGH">Patricia G.
+                Holland</person> and<person who="MMM"> Milton Meltzer. Millwood</person>, <location
+                acro="#New York">N.Y.</location>: Kraus Microfilm, <time format="1980">1980</time>.
+            14:389—4</cite>
+    </para>
+</text>

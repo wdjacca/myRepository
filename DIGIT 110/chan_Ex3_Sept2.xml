@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <metadata>
+        <stamp xml:id="loc" location="line7-10" ink="red"> Library of Congress </stamp>
+        <source type="photofac"
+            url="https://www.loc.gov/resource/mcc.024/?sp=5&amp;r;=-0.626,-0.07,2.251,1.407,0#home"/>
+        <!--triple IF tag-->
+        <persondata xml:id="BTW">
+            <name> Book. T. Washington</name>
+            <birth>
+                <location state="VA">Virginia</location>, <date format="1856">1856</date></birth>
+            <note>born a slave</note>
+            <note>founded Tuskegee Institute in <location state="AL">Alabama</location> in <date
+                    format="1881">1881</date>, , largest and most famous school for African
+                Americans in the South</note>
+            <note>advocated for vocational training for African Americans</note>
+            <note>taught through racial self-help and accumulation of material wealth</note>
+            <note>goal is to help African Americans endure and prosper in the segregated
+                society</note>
+            <note>simile for segregation at <date format="1895">1895</date> exposition<quote>In all
+                    things that are purely social we can be as separate as the fingers, yet as the
+                    hand in all things eslnial to mutual progress.</quote></note>
+            <note>not accept segregation</note>
+        </persondata>
+        <personaldata xml:id="LG">
+            <name>Langston Hughes</name>
+            <birth>
+                <date format="1902">1902</date>
+            </birth>
+            <death>
+                <date format="1967">1967</date>
+            </death>
+            <relation>great-nephew + namesake of <location state="VA">Virginia</location>'s first
+                African American Congressmen <person whp="JML">John Mercer
+                Langston</person></relation>
+            <note>first published poem appeared in <magazine>the Crisis</magazine> in <date
+                    format="1921"> 1921</date></note>
+            <note>poetery often described lives and culture of working-class African
+                Amercians</note>
+        </personaldata>
+        <poem xml:id="example">
+            <note>attempts to reconcile the reputation of <person who="#BTW">Booker T.
+                    Washington</person> as collaborotor with white racists</note>
+            <note> reminds that the South in <date format="1800s">late in nineteenth century</date>
+                was dangerous for African Americans to protest racial segregationg</note>
+        </poem>
+    </metadata>
+    <page num="1">
+        <header style="doubleunderline">"Ballad of Booker T.," by <person who="#LH">Langston
+                Hughes</person>, <date format="1941-06-01">June 1, 1941</date></header>
+        <title>BALLAD OF BOOKER T.</title> by <person who="LH">Langston Hughes</person>
+        <ln><person who="#BTW">Booker T.</person></ln>
+        <ln>Was a practical man.</ln>
+        <ln>He said, Till the soil</ln>
+        <ln>And learn from the land.</ln>
+        <note
+            source="quote from BTW's 1895 speech in Atlanta, Georgia, at the Cotton States and Internation Exposition"
+                ><ln>Let down your bucket</ln>
+            <ln>Where you are.</ln></note>
+        <ln>Your fate <locStamp rend="start"/>is here</ln>
+        <ln>And not afar.</ln>
+        <ln>To help <locStamp rend="end"/>yourself</ln>
+        <ln>And your fellow man,</ln>
+        <ln>Train your head,</ln>
+        <ln>Your heart, <style type="underscore">and your hand.</style></ln>
+        <ln>For smartness alone's</ln>
+        <ln>Surely not meet—</ln>
+        <ln>If you haven't at the same time</ln>
+        <ln>Got something to eat.</ln>
+        <ln>Thus at <note source="founded by BTW in Alabama in 1881">Tuskegee</note></ln>
+        <ln>He built a school</ln>
+        <ln>With book-learning there</ln>
+        <ln>And the workman's tool.</ln>
+        <ln>He started out</ln>
+        <ln>In a simple way—</ln>
+        <note type="#example"><ln>For yesterday</ln>
+            <ln>Was <style type="underscore">not</style> today.</ln></note>
+        <ln>Sometimes he had</ln>
+        <ln>Compromise in his talk—</ln>
+        <ln>For a man must crawl</ln>
+        <ln>Before he can walk—</ln>
+        <note type="#example"><ln>And in <location state="AL">Alabama</location> in '<date
+                    format="1985, approx by jkc">85</date></ln>
+            <ln>A joker was lucky</ln>
+            <ln>To be alive.</ln></note>
+        <ln>But<person who="#BTW"> Booker T</person>.</ln>
+        <ln>Was nobody's fool:</ln>
+        <ln>You may carve a dream</ln>
+        <ln>With an humble tool.</ln>
+        <ln>The tallest tower</ln>
+        <ln>Can tumble down</ln>
+        <ln>If it be not rooted</ln>
+        <ln>In solid ground.</ln>
+        <ln>So, being a far-seeing </ln></page>
+    <page num="2">
+        <ln>Practical man,</ln>
+        <ln>He said, Train your head,</ln>
+        <ln>Your heart, <style type="underscore">and your hand</style>.</ln>
+        <ln>Your fate is here</ln>
+        <ln>And not afar,</ln>
+        <ln>So let down your bucket</ln>
+        <ln>Where you are.</ln>
+        <person who="#LG">LANGSTON HUGHES</person> Final Draft, <location state="CA">Hollow Hills
+            Farm, Monterey, California,</location>
+        <date format="1941-06-01">June 1, 1941.</date>
+        <footnote>
+            <signature>Langston Hughes</signature> Citation: <cite>Drafts of Langston Hughes's poem
+                "Ballad of Booker T.," 30 May–1 June 1941.</cite>
+            <cite> (Langston Hughes Collection) Manuscript Division, Library of Congress,
+                Washington, D.C.</cite>
+        </footnote></page>
+</xml>

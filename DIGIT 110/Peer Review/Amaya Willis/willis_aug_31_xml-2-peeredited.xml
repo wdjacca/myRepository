@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc><para type="preview"><name>Jacobs</name> writes of the difficulty she has had in finding time to write while working for <surname>Willis</surname> family. <quote><!-- jkc: I think you can remove the quotation marks here since you specified that it is a quote already -->"I have
+not written a single page by daylight <name>Mrs W</name> dont know from my lips that I am writing for a Book"</quote></para>
+
+<line type="header"><location type="town">Cornwall</location> <location type="state">[New York]</location> [nd] <date when="1854-03
+    ">March [1854]</date></line>
+
+<line type="greeting">My Dear Friend</line>
+
+<para>I recieved your kind and welcome <emphasis>*letter*</emphasis> and should have replied to it much earlier but various
+hindrances have prevented me and when I would have written I was in Bed with a severe
+attack of <disease>Rheumatism</disease> so that I could not raise my hands to my head I am still suffering with it
+in my shoulders. and we have had much sickness in the family this <season>winter</season> I know my plea for
+want of time will find its way to your heart</para>
+
+<para>my dear friend let me thank you for your kind and generous offer of the hospitality of your
+pleasant home which would afford me much pleasure to accept but as yet I . . . <!-- jkc: I personally would've included what punctuation they (the editors) used to indicate missing and emphasized words and remoced the punctuation from the text -->
+<missing>[obliterated]</missing> not <emphasis>*cannot*</emphasis> decide my friends <name amount="2">Mr &amp; Mrs <!-- jkc: since you have the tag <surname> already, maybe this would benefit from being enclosed in that tag too -->Brockett</name> is very anxious that I should go to their home and write they live very quietly and retired they were here and spent a day and
+night with me and saw from my daily duties that it was hard for me to find much time to write as
+yet I have not written a single page by daylight <name>Mrs W</name> dont know from my lips that I am writing
+for a Book and has never seen a line of what I have written I told her in the <season>Autumn</season> that I
+would give her <name><!--aw: I can't tell for sure if this is a person since it is worded weird-->Louisa</name> services through the <season>winter</season> if she would allow me my <season>winter</season> evenings to
+myself but with the care of the little baby and the big Babies and at the houshold calls I have
+but a little time to think or write but I have tried in my poor way to do my best and that is not
+much<!-- aw: I'm having trouble understanding what the writer is talking about, the words don't seem to make sense--></para>
+
+<para>And you my dear friend must not expect much where there has been so little given Yes dear
+<name>Amy</name> there has been more than a bountiful share of suffering given enough to crush the finer
+feelings of stouter hearts than this poor timid one of mine but I will try and not send you a
+portriature of feelings just now the poor Book is in its Chrysalis state and though I can never
+make it a butterfly I am satisfied to have it creep meekly among some of the humbler bugs I
+sometimes wish that I could fall into a <story>Rip Van Winkle</story> sleep and awake with the blest belief of 
+that little <item type="doll"><!-- aw: I looked this up and the only thing I could find was a topsy turvy doll--> Witch Topsy</item> that I never was born but you will say it is too late in the day I have
+outgrown the belief oh yes and outlived it too but you know that my bump of hope is large how
+is my dear old friend <name>Mr Post</name> I have no doubt but that he is at his Post perhaps heading a
+mighty Phalanx to put the <location type="state">Nebraska</location> bill through well he shall have my vote <date when="1856">1856</date> when <name type="author">Arnold</name>
+and <name type="king">Belshazzar</name> rools down the avalanche remember me with much kindness to all the family
+tell <name>Willie</name> I want to see him very much when you write tell me if I know the friend that you
+spoke of in your letter as soon as my plans are more matured I will write you again it will be
+very difficult for to get some one in my place yet it will be left for me to do I know of but one
+person she is a <profession>Ladys nurse</profession> and her wages would be high but I think that can get her she is a
+nice person I must stop this rambling letter let no one see it <name>Lou</name> sends much love to you I am
+sorry you dont know her better you would love her<!-- aw: there is hardly any punctuation in this document and the sentences don't really make sense, I did the best I could to find things to code--></para>
+
+<note type="editorComment">[along right margin]</note> <line type="sideNote" location="rightMargin">*<name type="diety">God</name> bless you write as soon as you can yours</line>
+
+<line type="closinng"><name>H. Jacobs*</name></line>
+
+<line type="title">Citation:</line>
+
+<line type="source">Autograph letter, signed; <!-- jkc: you previously used the numerical number 2 for this element. Changing this one to a numerical number would help you stay more consistent --><name amount="two">Isaac and Amy Post</name> Family Papers, <location type="building">University of Rochester Library.</location></line></doc>
+
+<!-- jkc: Overall a well-formed code. It was straight-forward and despite the initial comments from you saying the text was difficult to understand, I think you did a good job.  -->
+<!-- jkc: I added your initials to your comments so as to not mix up our comments -->
+<!-- jkc: Sidenote: both Barbie and you used this text for this exercise so it was interesting seeing the differences in how you code this text -->

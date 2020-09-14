@@ -1,0 +1,17 @@
+start = twinkie
+twinkie = element Ozymandias {layer}
+#We used twinkie as just to show what's just a label in the relax ng syntax
+layer = element layer {agent, line*, pos?}
+pos = attribute pos {"start"|"end"}
+# The plus sign is a repetition indicator
+# No sign means there is only one and exactly one 
+# The "+" means at least one or more
+# The "?" means zero or one
+# THe "*" means zero or more. This is the most flexible repetition indicator
+agent = attribute agent {"I"|"traveller"| "sculptor"|text}
+line = element line {n, mixed{layer?}}
+# lines are special: they contain MIXED COMNTENT
+# Mixed content literally means text is flowing freely around elements. The elements can appear anywhere. 
+n = attribute n {xsd:integer}
+# We want to use a datatype. Can be found in tutorial.
+

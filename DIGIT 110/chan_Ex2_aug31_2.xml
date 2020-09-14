@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml><metadata>
+    <!-- contains Personography List-->
+    <persononography xml:id="LJ"> 
+        <name><surname></surname></name>
+        <born></born>
+        <death></death>
+        <note></note>
+    </persononography>
+</metadata>
+<page>
+    <para type="header">
+        <person type="sender">Jacobs</person> writes to <person type="recipient">Amy Post</person>,
+        reporting that she meant to approach the author <person type="author">Harriet Beecher
+            Stowe</person> about having <person><relation>Jacobs's daughter</relation>
+            <name>Louise</name></person> join her on her visit to <location country="UK"
+            >England</location>. <quote>I thought <person nickname="Louise">Louisa</person> would be
+            a very good representative of a Southern Slave she has improved much in her studies and
+            I think that she has energy enough to do something for the cause.</quote></para>
+    <letter>
+        <date format="14-02"><word misspelled="February">Feby</word> 14th <date edit="editor's note"
+                >[1853]</date></date>
+        <greeting>My Dear Friend</greeting>
+        <content>
+            <sent editnote="jkc"> I recieved your kind letter <time>yesterday</time></sent>
+            <sent editnote="jkc">if silence is expressive of ones deep feeling then in this way I
+                must ask you to recieve the emotions of what my heart <word type="asterisk">and
+                    pen</word> cannot express</sent>
+            <sent editnote="jkc"> hoping the time is not far distant when we may see each other but
+                I must tell you what I am trying to accomplish</sent>
+            <sent editnote="jkc"> having seen the notice in the paper of <person>Mrs Stowe</person>
+                intention to visit <location country="UK">England</location> I felt there would not
+                be much hope of coming before her for some time and I thought if I could get her to
+                take <person>Louisa</person> with her</sent>
+            <sent editnote="jkc">she might get interested enough if she could do nothing herself she
+                might help <person nickname="Louise">Louisa</person> to do something</sent>
+            <sent editnote="jkc">besides I thought <person nickname="Louise">Louisa</person> would
+                be a very good representative of a Southern Slave</sent>
+            <sent editnote="jkc">she has improved much in her studies and I think that she has
+                energy enough to do something for the cause she only needs to to be put in the
+                field</sent>
+            <sent editnote="jkc">I told my Ideas to <person>Mrs Willis</person></sent>
+            <sent editnote="jkc">she thought they were good and offered to write <person>Mrs
+                    Stowe</person></sent>
+            <sent editnote="jkc">she wrote <time>last Tuesday</time> asking her protection and if
+                she would place her in some Antislavery family unless her services could be useful
+                to her which I would perfer myself intending to pay her expenses there</sent>
+            <sent editnote="jkc"> the letter was directed as yours when it is answered</sent>
+            <sent editnote="jkc">you shall know dear <person>Amy</person> since I <word
+                    misspelled="have no">haveno</word> fear of my name coming before those whom I
+                have lived in dread of </sent>
+            <sent editnote="jkc">I can not be happy without trying to be useful in some way </sent>
+            <sent editnote="jkc">I had a kind note from dear <person>Sarah</person> saying that she
+                would be in<location> New york</location> on the 20<word type="asterisk">th</word>
+                and wished to know our street and number </sent>
+            <sent editnote="jkc"> I am going down to see her and <person>Mrs Bush</person></sent>
+            <sent>and if <person nickname="Mrs Bush">Mrs B</person> do not sail on the 20<word
+                    type="asterisk">th</word> will you drop me a line to let me know</sent>
+            <sent editnote="jkc">I send an answer to <person>Sarah</person>
+                <word misspeled="today">to day</word> also as she will not be there</sent>
+            <sent editnote="jkc">unless <person nickname="Mrs Bush">Mrs B</person> sails I shall be
+                more than glad to see you all</sent>
+        </content>
+    </letter>
+    <para type="footnote">
+        <heading>Citation:</heading>
+        <cite><genre>Autograph letter</genre>; Isaac and Amy Post Family Papers, <library>University
+                of Rochester Library</library></cite>
+    </para>
+</page>
+</xml>

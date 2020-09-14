@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <test><!-- jkc: added root element -->
+        <meta>
+        <title>Ozymandias</title><!-- jkc: changed the end tag to match opening tag-->
+        <author>Percy Bysshe Shelley</author>
+        <publication>>
+            <title type="journal"><!-- jkc: added quotation marks to attribute values-->The Examiner</title>
+            <pubPlace>London</pubPlace> <!-- jkc: removed white space from tags -->
+            <date when="1818-01-11">11 January 1818</date>
+        </publication>
+        <source>
+            British Library 
+            <ref target="http://www.bl.uk/learning/timeline/item126940.html"/> <!-- jkc: made into self-closing tag -->
+        </source><!-- jkc: added the / for the closing tag -->
+        </meta>
+    <poem>
+        <line n="1">I met a traveller from an antique land,</line>
+        <line n="2">Who said—Two vast and trunkless legs of stone</line><!-- jkc: added ending tag-->
+        <line n="3">Stand in the desert. . . . Near them, on the sand,</line>
+        <line n="4">Half sunk a shattered visage lies, whose frown,</line>
+        <line n="5">&amp; <!-- jkc: anded amp; to & to make it xml format-->wrinkled lip, and sneer of cold command,</line>
+        <line n="6">Tell that its sculptor well those passions read</line>
+        <line n="7">Which yet survive, stamped on these lifeless things,</line>
+        <line n="8">The hand that mocked them, and the heart that fed;</line>
+        <line n="9"><!-- jkc: added the attribute name "n" -->And on the pedestal, these words appear:</line>
+        <line n="10">My name is Ozymandias, King of Kings;</line>
+        <line n="11">Look on my Works, ye Mighty, and despair!</line>
+        <line n="12">Nothing beside remains. Round the decay</line>
+        <line n="13">Of that colossal Wreck, boundless and bare</line><!-- jkc: moved the / to the front of the closing tag -->
+        <line n="14">The lone and level sands stretch far away.”</line>
+    </poem><!-- jkc: made ending tag match opening tag -->
+</test>
