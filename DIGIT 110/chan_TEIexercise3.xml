@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text> <!-- jkc: I just fixed my code from TEI Exercise 2 for this exercise so I don't have such a messy code -->
+      <front>
+         <head> Negro College Graduate </head>
+         <div type="subhead">
+            <ab>Individual Occupational History</ab>
+         </div>
+      </front>
+      <body>
+         <pb/>
+         <div type="Section" n="I" >
+            <head>Social Information</head>
+            <div n="1">
+               <ab type="question" style="typed">Name</ab>
+                  <ab type="response" style="handwritten">Anna Julia Cooper</ab>
+            </div>
+            <div n="2">
+               <ab type="question" style="typed">Present address</ab>
+               <ab type="response" style="handwritten">201 T N.W. Washington D.C.</ab>
+            </div>
+            <div n="3">
+               <ab type="question" style="typed">(If married woman, give maiden name on this line)</ab>
+               <ab type="response" style="handwritten">Anna Julia Haywood</ab>
+            </div>
+            <div n="4">
+               <div type="multi-level_question"><ab type="question" style="typed">Length of residence in this city</ab>
+               <ab type="response" style="handwritten">45 yrs.</ab>
+               </div>
+               <div>
+                  <ab type="question" style="typed">State of longest residence</ab>
+                  <gap/>
+               </div>
+            </div>
+            <div n="5">
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Age</ab>
+                  <ab type="response" style="handwritten">72</ab>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Sex</ab>
+                  <ab type="response" style="handwritten">F</ab>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Date of birth</ab>
+                  <ab type="response" subtype="date" style="handwritten">Aug 10,1860</ab>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Place of birth</ab>
+                  <ab type="response" style="handwritten">Raleigh N.C.</ab>
+               </div>
+            </div>
+            <div n="6">
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Marital status</ab>
+                  <ab type="question" style="typed">Single</ab>
+                  <ab type="response" style="handwritten"> Widowed</ab>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Married</ab>
+                  <ab type="response" subtype="checkmark" style="handwritten"/>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Date of marriage</ab>
+                  <ab type="response" subtype="date" style="handwritten">June 21, 1877</ab>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Age at marriage</ab>
+                  <ab type="response" style="handwritten">17</ab>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Divorced</ab>
+                  <gap/>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Date</ab>
+                  <gap/>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Separated</ab>
+                  <gap/>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Date</ab>
+                  <gap/>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Widowed</ab>
+                  <ab type="response" subtype="checkmark" style="handwritten"/>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Date</ab>
+                  <ab type="response" subtype="date" style="handwritten">Sept 27,1879</ab>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Deserted</ab>
+                  <gap/>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Date</ab>
+                  <gap/>
+               </div> 
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Remarried</ab>
+                  <gap/>
+               </div>
+               <div type="multi-level_question">
+                  <ab type="question" style="typed">Date</ab>
+                  <gap/>
+               </div>
+            </div>
+            <div n="7">
+            </div>
+            <div n="8">
+               <ab type="question" style="typed">Present occupation</ab>
+               <ab type="response" style="handwritten">Teaher N President Frelinghuysen University</ab></div>
+            <div n="9">
+               <div type="multi-level_question"><ab type="question" style="typed">Present annual salary</ab>
+               <ab type="response" style="handwritten">%50.00</ab></div>
+               <div><ab type="question"> or yearly net income, deducting expenses of earning except income tax</ab>
+            </div>
+         </div>
+         </div>
+      </body>
+   </text>
+</TEI>

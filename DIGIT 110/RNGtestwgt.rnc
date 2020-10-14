@@ -1,0 +1,52 @@
+# DIGIT 110 RELAX NG TEST INSTRUCTIONS:  
+# * Save these test files according to our standard file naming conventions for Canvas submissions.
+# * Make the schema well-formed and document with  # comments where you made change(s). 
+# * Then, associate the schema with the XML file we have provided for the exam.
+# * Next, correct the schema code so that it validates the XML (happy green oXygen for both documents) and document briefly with # comments what you changed and why.
+#     **NOTE**: DO NOT CHANGE the markup in the XML file (except for adding your new schema line)! 
+#
+# TIPS: 
+# There are 9 critical errors in this Relax-NG schema that will make oXygen's error-checking box RED. Your goal is to correct each of these errors.
+# (You only see one red box on both files to start because it is the first error that causes the RNG file not to be well-formed. 
+# Fix that first error on your new schema and others will become evident. 
+# When you correct the schema file so it "turns green", associate your new schema with the XML (and remove the original schema line). At that point the other validation errors will become evident in the XML file.)
+# Remember to split your oXygen screen (Window -> Tile Editors Vertically), and use the outline view on the XML document to see where tags sit in the document's hierarchy. (If you don't immediately see this, click on the XML file, then go to  Window -> Show View -> Outline).
+#
+# **NOTE**: Because this is an exam, you are expected to complete this assignment _individually_ 
+# without discussion or help from other students. Any such collaboration will be considered to be plagiarism under the penalties stated on the syllabus.
+# *  GITHUB: While you may ask basic questions on the class GitHub or by email, the instructor's responses will
+# be correspondingly minimal: that is, I will not be telling you the complete answers. Similarly, for any
+# questions about take-home exams on GitHub, students _must not_ reply to each other.
+#
+# SUBMITTING YOUR EXAM:
+# When you are finished, upload BOTH the schema and the XML file to Canvas using the posted upload point for this exam. 
+# You may zip the files to submit them just as you have done for homework assignments.
+
+start = xml
+xml = element xml {headline, date, location, listPerson, body}
+headline = element headline {text}
+date = element date {when text}
+when = attribute when {xsd:date}  # Hint: This may need to include the option of another datatype
+location = element location {text}
+source = element source {url, empty}
+url = attribute url {xsd:anyURI}
+
+listPerson = element listPerson {person}
+person = element person {id, name, role}
+id = attribute id {xsd:ID}
+name = element name {text}
+role = element role {roleName | organization}
+roleName = element roleName {text}
+organization = element organization (text)
+
+body = element body {p+}
+p = element p {n, mixed{(quote | organization | place)*}}
+n = attribute n {xsd:integer}
+fund = element fund {currency, text}
+currency = attribute {text}
+quote = element quote {ref, text}
+ref = attribute ref {xsd:IDREF}
+place = element place {text}
+
+
+

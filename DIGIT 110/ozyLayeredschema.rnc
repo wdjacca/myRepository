@@ -9,8 +9,9 @@ pos = attribute pos {"start"|"end"}
 # The "?" means zero or one
 # THe "*" means zero or more. This is the most flexible repetition indicator
 agent = attribute agent {"I"|"traveller"| "sculptor"|text}
-line = element line {n, mixed{layer?}}
-# lines are special: they contain MIXED COMNTENT
+line = element line {n, mixed{(layer|ellipsis)?}}
+ellipsis = element ellipsis {empty}
+# lines are special: they contain MIXED CONTENT
 # Mixed content literally means text is flowing freely around elements. The elements can appear anywhere. 
 n = attribute n {xsd:integer}
 # We want to use a datatype. Can be found in tutorial.

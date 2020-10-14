@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--2020-09-30 ebb: DIGIT 110 EXAM FILE. 
+    The only change you should make to this file is to add the schema association to validate it.
+    Do not change the XML elements or attributes here, but make changes to the schema file so that it 
+    validates this XML document.
+    You'll be submitting your corrected schema file and this XML file on Canvas. -->
+
+<?xml-model href="chan_RNGtest.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <headline>Penn State Behrend opens new Wintergreen Gorge trail system</headline>
+    <date when="2020-09-22">September 22, 2020</date>
+    <location>ERIE, Pa.</location>
+    <source url="https://behrend.psu.edu/story/53651/2020/09/22/penn-state-behrend-opens-new-wintergreen-gorge-trail-system"/>
+    <listPerson>
+        <person id="RFord">
+            <name>Ralph Ford</name>
+            <role>
+                <roleName>Chancellor</roleName>
+                <organization>Penn State Erie, The Behrend College</organization>
+            </role>
+        </person>
+        <person id="SMason">
+            <name>Sherri "Sam" Mason</name>
+            <role>
+                <roleName>Sustainability Coordinator</roleName>
+                <organization>Penn State Erie, The Behrend College</organization>
+            </role>
+        </person>
+    </listPerson>
+    <body>
+        <p n="1">With a ribbon-cutting and a short walk on the new bamboo boardwalk, <organization>Penn State Behrend</organization>
+            formally opened the renovated trail system in <place>Wintergreen Gorge</place>, a Natural Heritage Area
+            on and adjacent to the <place>Behrend campus</place>.</p>
+
+        <p n="2">The college recently completed a <fund currency="USD">$690,000</fund> trail improvement project, which will reduce
+            erosion in the gorge while maintaining public access to the property, which is now
+            ADA-accessible for the first time.</p>
+
+        <p n="3"><quote ref="RFord">The gorge is a public resource,</quote> Penn State Behrend Chancellor
+            Ralph Ford said. <quote ref="RFord">We want to protect it for the generations that will
+                use it in the future.</quote></p>
+
+        <p n="4">Funding for the trail project, which began in 2013, was provided by the <organization>Pennsylvania
+            Department of Conservation and Natural Resources</organization>, <organization>the Pennsylvania Department of
+            Community and Economic Development</organization>, <organization>the Erie County Planning Department</organization> and <organization>Penn
+            State</organization>.</p>
+
+        <p n="5">The improvements include a 165-foot boardwalk, which extends the primary trail over a wet
+            area. The structure will encourage visitors to remain on the trail, which is the spine
+            of a 14-mile network of informal “shortcut” paths, many of which have accelerated
+            erosion in the gorge.</p>
+
+        <p n="6">The primary trail has been topped with a compacted aggregate, making it accessible to
+            visitors with strollers, or even wheelchairs.</p>
+        
+        <p n="7"> <quote ref="SMason">Being part of a community means you think about others as well as yourself,</quote> said
+            Sherri “Sam” Mason, the sustainability coordinator at Penn State Behrend. <quote ref="SMason">Our students
+            have good access to the gorge, but we want everyone else to enjoy it, too. That includes
+            people with mobility issues.</quote></p>
+
+        <p n="8"><quote ref="SMason">There are so few green spaces that offer this level of accessibility,</quote> she said.</p>
+
+        <p n="9">The project also created a new trailhead at <place>Cooper Road</place>, where a parking area now offers
+            space for 17 vehicles. Additional parking is available at the <place>Ohio Hall</place> and <place>School of
+            Science</place> trailheads on <place>the Behrend campus</place>.</p>
+
+        <p n="10">The college has secured <fund currency="USD">$380,000</fund> in funding for the next phase of the trail project, which
+            will extend the aggregate-topped path to <place>Trout Run</place>. That work is expected to begin in
+            the fall of <date when="2021">2021</date>.</p>
+        <p n="11"> <quote ref="SMason">We need some time to see how this first phase improves things, particularly in regard
+            to the water coming off the <place>Bayfront Connector</place>,</quote> Mason said. <quote ref="SMason">We’ll make adjustments,
+            and we’ll develop a plan that further improves public access to the gorge while
+            protecting the natural environment for the generations that follow us.</quote></p>
+    </body>
+</xml>

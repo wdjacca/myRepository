@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     <front>
+        <head> Negro College Graduate </head>
+        <div type="subhead"><head>Individual Occupational History</head></div>
+     </front>
+      <body>
+         <pb/>
+            <div1 type="Section" n="I">
+               <head>Social Information</head>
+               <div2 type="Questions" n="1">
+                  <div3 type="typed"><head>Name</head></div3>
+               </div2>
+               <div2 type="Answers" n="1"><head>Anna Julia Cooper</head></div2>
+               <div2 type="Questions" n="2">
+                  <div3 type="typed"><head>Present address</head></div3>
+               </div2>
+               <div2 type="Answers" n="2"><head>201 T N.W. Washington D.C.</head></div2>
+               <div2 type="Questions" n="3">
+                  <div3 type="typed"><head>(If married woman, give maiden name on this  line)</head></div3>
+               </div2>
+               <div2 type="Answers" n="3"><head>Anna Julia Haywood</head></div2>
+               <div2 type="Questions" n="4">
+                  <div3 type="typed"><head>Length of residence in this city</head></div3>
+               </div2>
+               <div2 type="Answers" n="4"><head>45 yrs.</head></div2>
+               <div2 type="Questions" n="4.1">
+                  <div3 type="typed"><head>State of longest residence</head></div3>
+               </div2>
+               <div2 type="Answers" n="4.1"><head><gap></gap></head></div2>
+               <div2 type="Questions" n="5">
+                  <div3 type="typed"><head>Age</head></div3>
+               </div2>
+               <div2 type="Answers" n="5"><head>72</head></div2>
+               <div2 type="Questions" n="5.1">
+                  <div3 type="typed"><head>Sex</head></div3>
+               </div2>
+               <div2 type="Answers" n="5.1"><head>F</head></div2>
+               <div2 type="Questions" n="5.2">
+                  <div3 type="typed"><head>Date of Birth</head></div3>
+               </div2>
+               <div2 type="Answers" n="5.2"><dateline>Aug 10,1860</dateline></div2>
+               <div2 type="Questions" n="5.3">
+                  <div3 type="typed"><head>Place of birth</head></div3>
+               </div2>
+               <div2 type="Answers" n="5.3"><head>Raleigh N.C.</head></div2>
+               <div2 type="Questions" n="6">
+                  <div3 type="typed"><head>Marital status</head></div3>
+               </div2>
+               <div2 type="Answers" n="6"><head>Single</head><head>Married</head></div2>
+               <div2 type="Questions" n="6.1">
+                  <div3 type="typed"><head>Date of marriage</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.1"><dateline>June 21, 1877</dateline></div2>
+               <div2 type="Questions" n="6.2">
+                  <div3 type="typed"><head>Age at marriage</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.2"><head>17</head></div2>
+               <div2 type="Questions" n="6.3">
+                  <div3 type="typed"><head>Divorced</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.3"><head><gap></gap></head></div2>
+               <div2 type="Questions" n="6.4">
+                  <div3 type="typed"><head>Date</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.4"><dateline><gap></gap></dateline></div2>
+               <div2 type="Questions" n="6.5">
+                  <div3 type="typed"><head>Separated</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.5"><dateline><gap></gap></dateline></div2>
+               <div2 type="Questions" n="6.6">
+                  <div3 type="typed"><head>Date</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.6"><dateline><gap></gap></dateline></div2>
+               <div2 type="Questions" n="6.7">
+                  <div3 type="typed"><head>Widowed</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.7"><head>check</head></div2>
+               <div2 type="Questions" n="6.8">
+                  <div3 type="typed"><head>Deserted</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.8"><head><gap></gap></head></div2>
+               <div2 type="Questions" n="6.9">
+                  <div3 type="typed"><head>Date</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.9"><dateline><gap></gap></dateline></div2>
+               <div2 type="Questions" n="6.10">
+                  <div3 type="typed"><head>Remmarried</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.10"><head><gap></gap></head></div2>
+               <div2 type="Questions" n="6.11">
+                  <div3 type="typed"><head>Date</head></div3>
+               </div2>
+               <div2 type="Answers" n="6.11"><dateline><gap></gap></dateline></div2>
+            </div1>
+            
+         
+
+      </body>
+  </text>
+</TEI>

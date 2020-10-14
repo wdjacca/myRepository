@@ -1,0 +1,26 @@
+start = goodMorning
+goodMorning = element xml {mixed{(source|\text)*}}
+source = element source {mixed{(title|altTitle|author|pubPlace|publisher|date|note)*}}
+title = element title {mixed{level}}
+level = attribute level {"book"|"inner"}
+altTitle = element altTitle {text}
+author = element author {text}
+pubPlace = element pubPlace {mixed{where*}}
+where = attribute where {text}
+publisher = element publisher {text}
+date = element date {when}
+when = attribute when {xsd:date|xsd:gYearMonth|xsd:gYear}
+# jkc: changed attribute datatype
+note = element note {text}
+\text = element text {poem+}
+poem = element poem {mixed{(id|title|lineGroup)*}}
+id = attribute id {text}
+lineGroup = element lineGroup {line+}
+line = element line {n, mixed{(motif|emph|placeName|place)*}}
+n = attribute n {xsd:nonNegativeInteger}
+motif = element motif {text}
+emph = element emph {text}
+placeName = element placeName {mixed{(ref)*}}
+ref = attribute ref {text}
+place = element place {mixed{(ref|type)*}}
+type = attribute type {text}
