@@ -1,0 +1,32 @@
+
+body {background-color:#F6f1EE;
+color: #031B3F; 
+padding:15px; 
+line-height:1.4em}
+/*div#space {background-color:#FFFFFF; width:99%; margin:auto; padding: 20px; line-height:1.2em; } */
+
+table, th, td
+{border-collapse: collapse;
+border: 1px solid #000066;    
+padding: 15px;
+vertical-align:top;
+}
+th {border-collapse: collapse;
+border: 1px solid  #000066;
+background-color: #4C364D; /*#7E967E;*/
+padding: 1px;
+vertical-align:middle;
+color: white;
+}
+
+.location {
+background-color:#FBDCCE;
+text-decoration: overline;
+} 
+.tech {
+background-color:#F5905E;
+text-decoration:underline;} 
+
+h1 {
+font-family: fantasy;
+}
