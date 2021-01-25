@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <meta>
+        <header>The Best Lemon Bars</header>
+        <rating rating="4.53 star">Rating: 4.53 stars</rating>
+        <rating amount="3394">3,394 Ratings</rating>
+        <review amount="2542">2,542 Reviews</review>
+        <img amount="446">446 Photos</img>
+    </meta>
+    <headNote>Tart, rich and perfection, all rolled into one! Wow your friends with this simple
+        recipe. Hint: No Substitutions!</headNote>
+
+
+    <author>By <person id="Patty">Patty Schenck</person></author>
+
+    <recipe>
+        <header>The Best Lemon Bars</header>
+
+        <summary>
+            <header>Recipe Summary</header>
+            <note id="Prep">Prep: <time duration="15mins">15 mins</time></note>
+            <note id="Cook">Cook: <time duration="40mins">40 mins</time></note>
+            <note id="Total">Total: <time duration="55mins">55 mins</time></note>
+            <note id="Serving">Servings: <num n="36">36</num></note>
+            <note id="Yield">Yield: <utensil id="pan">1 - <mmt><num n="9x13">9x13</num>
+                        <unit id="inch">inch</unit></mmt> pan</utensil></note>
+        </summary>
+        <ingreList>
+            <header>Ingredients</header>
+
+            <ingre n="1"><mmt total="1 cup"><num n="1">1</num>
+                    <unit id="cup">cup</unit></mmt>
+                <item id="butter" type="wet">butter</item>, <note tag="stateOfingre"
+                >softened</note></ingre>
+            <ingre n="2">
+                <mmt total="0.5 cup">
+                    <num n="0.5">½ </num>
+                    <unit id="cup">cup</unit>
+                </mmt>
+                <item id="sugar" type="dry">white sugar</item>
+            </ingre>
+
+            <ingre n="3">
+                <mmt total="2 cups">
+                    <num n="2">2</num>
+                    <unit id="cup">cups</unit>
+                </mmt>
+                <item id="flour" type="dry">all-purpose flour</item>
+            </ingre>
+
+            <ingre n="4">
+                <num n="4">4</num>
+                <item id="egg" type="wet">eggs</item>
+            </ingre>
+
+            <ingre n="5">
+                <mmt total="1.5 cup">
+                    <num n="1.5">1 ½</num>
+                    <unit id="cup">cups</unit>
+                </mmt>
+                <item id="sugar" type="dry">white sugar</item>
+            </ingre>
+
+            <ingre n="6">
+                <mmt total="0.25 cup">
+                    <num n="0.25">¼</num>
+                    <unit id="cup">cup</unit>
+                </mmt>
+                <item id="flour" type="dry">all-purpose flour</item>
+            </ingre>
+
+            <ingre n="7"><num n="2">2</num>
+                <item id="lemon" type="wet">lemons</item>, <note tag="stateOfingre"
+                >juiced</note></ingre>
+        </ingreList>
+        <directions>
+            <header>Directions</header>
+            <step n="1">
+                <header>Step 1</header>
+                <content>Preheat <utensil id="oven">oven</utensil> to <mmt total="350F"><num n="350"
+                            >350</num>
+                        <unit id="Farenheit">degrees F</unit></mmt> (<mmt total="175C"><num n="175"
+                            >175</num>
+                        <unit id="Celcius">degrees C</unit></mmt>).</content>
+            </step>
+
+            <step n="2">
+                <header>Step 2</header>
+                <content>In a <utensil id="bowl">medium bowl</utensil>, blend together <item
+                        id="butter" type="wet">softened butter</item>, <item id="flour" type="dry"
+                            ><mmt total="2 cups"><num n="2">2</num>
+                            <unit id="cup" type="dry">cups</unit></mmt> flour</item> and <item
+                        id="sugar" type="dry"><mmt total="0.5 cup"><num n="0.5">1/2</num>
+                            <unit id="cup">cup</unit></mmt> sugar</item>. Press into the bottom of
+                    an <utensil id="pan"><note tag="stateOfuten">ungreased</note><mmt><num n="9x13"
+                                >9x13</num>
+                            <unit id="inch">inch</unit></mmt> pan</utensil>.</content>
+            </step>
+
+            <step n="3">
+                <header>Step 3</header>
+                <content>Bake for <time duration="15-20min">15 to 20 minutes</time> in the preheated
+                        <utensil id="oven">oven</utensil>, or until firm and golden. In another
+                        <utensil id="bowl">bowl</utensil>, whisk together the remaining <item
+                        id="sugar" type="dry"><mmt total="1.5 cup"><num n="1.5">1 ½</num>
+                            <unit id="cup">cups</unit></mmt> white sugar</item> and <item id="flour"
+                        type="dry"><mmt total="0.25 cup"><num n="0.25">1/4</num>
+                            <unit id="cup">cup</unit></mmt> flour</item>. Whisk in the <item
+                        id="egg" type="wet">eggs</item> and <item id="lemonJuice" type="wet">lemon
+                        juice</item>. Pour over the baked crust.</content>
+            </step>
+            <step n="4">
+                <header>Step 4</header>
+                <content>Bake for an additional <time duration="20min">20 minutes</time> in the
+                    preheated <utensil id="oven">oven</utensil>. The bars will firm up as they cool.
+                    For a festive tray, make another pan using <item id="lime">limes</item> instead
+                    of <item id="lemon">lemons</item> and adding a drop of <item id="foodColor"
+                        >green food coloring</item> to give a very pale green. After both pans have
+                    cooled, cut into uniform <mmt total="2inch"><num n="2">2</num>
+                        <unit id="inch">inch</unit></mmt> squares and arrange in a checker board
+                    fashion.</content>
+            </step>
+        </directions>
+    </recipe>
+
+    <note id="Nutri"><header>Nutrition Facts</header> Per Serving: <mmt total="126 Calories"><num
+                n="126">126</num>
+            <unit id="Calorie">calories</unit></mmt>; protein <mmt total="1.6g"><num n="1.6"
+                >1.6</num><unit id="gram">g</unit></mmt>; carbohydrates <mmt total="17.8g"><num
+                n="17.8">17.8</num><unit id="gram">g</unit></mmt>; fat <mmt total="5.8g"><num
+                n="5.8">5.8</num><unit id="gram">g</unit></mmt>; cholesterol <mmt total="34.2mg"
+                ><num n="34.2">34.2</num><unit id="miligram">mg</unit></mmt>; sodium <mmt
+            total="44.4mg"><num n="44.4">44.4</num><unit id="miligram">mg</unit></mmt>.</note>
+</xml>
