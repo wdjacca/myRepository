@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- clk: I started on coding up Mulan but I only got the first 3 pages done -->
+<xml>
+    <list>
+        <charList>
+            <human>
+                <person xml:id="Emperor">EMPEROR <note> Emperor of China</note>
+                    <note> referred to as Your Highness, Your Majesty </note></person>
+                <person xml:id="Mulan">MULAN <note> Protagonist</note></person>
+                <person xml:id="ChiFu">CHI FU</person>
+                <person xml:id="General">GENERAL</person>
+                <person xml:id="FaZhou">FA ZHOU <note> Mulan's dad</note></person>
+                <person xml:id="Matchmaker">Matchmaker</person>
+            </human>
+            <non-human>
+                <char xml:id="Kahn">Kahn <note> Mulan's horse</note></char>
+            </non-human>
+        </charList>
+        <person xml:id="Huns">the Huns <note> lead by <person xml:id="ShanYu">Shan-yu</person>
+            </note></person>
+        <person xml:id="ShanYu">Shan Yu <note> Anatagonist</note></person>
+    </list>
+    <meta><title>MULAN</title> Written by <person xml:id="Rita" tag="author">Rita Hsiao</person>
+        <note tag="draftnum" xml:id="8thDraft">EIGHTH DRAFT</note>
+        <date when="1996-12-21">December 21, 1996</date>
+        <note tag="revision">Rev. <date when="1997-05-09">5/9/97</date></note><note tag="revision">
+            Rev. <date when="1997-05-12">5/12/97</date></note><note tag="revision"> Rev. <date
+                when="1997-06-04">6/4/97</date></note>
+        <note tag="revision">Rev.<date when="1997-06-05"> 6/5/97</date></note>
+        <note tag="revision">Rev.<date when="1997-06-06"> 6/6/97</date></note><note> Rev.<date
+                when="1997-06-24"> 6/24/97</date></note>
+        <note tag="revision">Rev. <date when="1997=07=24">7/24/97</date></note>
+        <note tag="disclaimer">This material is the sole property of Walt Disney Pictures and is
+            restricted for the use of Walt Disney Pictures and personnel only. Distribution,
+            disclosure, reproduction, or sa.le of the material to unauthorized personnel is
+            prohibited.</note>
+    </meta>
+    <Script>
+        <pg pg="1"><title>MULAN </title>
+            <term xml:id="Fade" tag="transitions">FADE IN:</term>
+            <setting type="EXT" xml:id="greatWall" time="night">EXT. THE GREAT WALL -NIGHT
+                    (<sequence n="1">SEQUENCE 1.0</sequence>) </setting>
+            <screen>A MASSIVE, magnificent stone barrier snakes along the mountain tops of <location xml:id="China">China</location>. A lone GUARD patrols it. All's quiet, til ... 
+<SFX type="audio">WHOOSH!</SFX> A <animal xml:id="falcon">falcon</animal> swoops over him, knocking off his helmet. It flies upward, RIPPING the Imperial flag from a pole; the crescent moon shines. The guard follows as the bird drops the flag. It flutters over the wall, revealing 
+A DARK, OMINOUS MAN in SHADOW, clinging to the side. He GRABS the Guard before he can scream -LIFTING him into the air as 
+HUNDREDS of grappling hooks clamp onto the wall. </screen>
+            <setting type="EXT" xml:id="Garrison">IN THE GARRISON </setting>
+            <sceren>Startled guards look up as the shadowy MAN enters their sanctuary. As he RAISES
+                his distinctive, curved sword...</sceren>
+            <term xml:id="smashCut" tag="transitons"> SMASH CUT TO: </term>
+            <setting type="INT" xml:id="emperorsPalace" time="night"> INT. EMPEROR'S PALACE -NIGHT </setting>
+            <screen>Doors burst open. The <person xml:id="Emperor">EMPEROR</person>, his aide<person xml:id="ChiFu"> CHI FU</person>, and several men quickly enter </screen>
+            <setting type="INT" xml:id="warRoom">A CAVERNOUS WAR ROOM
+                -<screen>a huge model of China in its center.</screen>
+            </setting>
+            <diag><person xml:id="Emperor" tag="speaker">EMPEROR</person> Your report,<person
+                    xml:id="General"> General</person>.</diag>
+            <person xml:id="General">The General</person> steps through a section of <location
+                xml:id="greatWall">'The Great Wall</location>.' <diag><person xml:id="General"
+                    tag="speaker">GENERAL</person>
+                <person xml:id="Huns">The Huns</person> crossed our border here, <person
+                    xml:id="Emperor">Your Majesty!</person>
+            </diag>
+            <diag><person xml:id="ChiFu" tag="speaker">CHI FU</person>
+                <expression xml:id="shock" tag="facial">(shocked)</expression> Impossible! No one
+                can get through <location xml:id="greatWall">the Great Wall</location>. </diag>
+            <screen>  <person xml:id="Emperor">The Emperor</person> holds up his hand.</screen>
+            <diag><person xml:id="General" tag="speaker">GENERAL</person>
+                <expression xml:id="solemn" tag="pitch">(solemnly)</expression><person
+                    xml:id="ShanYu"> Shan-Yu</person> is leading them. </diag></pg>
+        <pg pg="2">
+            <diag><expression xml:id="Intake" tag="breath"> Sharp intakes.</expression> This is no
+                ordinary invader.</diag>
+            <diag><person xml:id="men" tag="speaker">MEN</person>
+                <expression xml:id="Murmur" tag="action">(murmuring)</expression><person
+                    xml:id="ShanYu"> Shan-Yu</person> ... </diag><screen><person xml:id="General"> The
+                General</person> strides across the model with his pointer.</screen>
+            <diag><person xml:id="General" tag="speaker">GENERAL</person> He's already destroyed one
+                village and is expected to reach <location xml:id="imperialCity">the Imperial
+                    City</location> in a matter of weeks. <expression>(then)</expression> We'll set
+                up defenses around the city immediately. </diag>
+            <diag><person xml:id="Emperor" tag="speaker">EMPEROR</person> No --send the troops out
+                to stop him. </diag><diag><person xml:id="General" tag="speaker">GENERAL</person>
+                But you will be left unprotected. </diag>
+            <screen> <person xml:id="Emperor">The Emperor</person> slams the pointer.</screen>
+            <diag><person xml:id="Emperor" tag="speaker">EMPEROR</person> (sternly) I'll not let him
+                take the lives of any more of my people. </diag>
+            <screen><person xml:id="General">The General</person> nods respectfully.</screen>
+            <diag><person xml:id="Emperor" tag="speaker">EMPEROR</person>
+                <person xml:id="ChiFu">Chi Fu</person>! </diag>
+            <screen><person xml:id="ChiFu"> Chi Fu </person>stands at attention.</screen>
+            <diag><person xml:id="ChiFu" tag="speaker">CHI FU</person> Yes,<person xml:id="Emperor">
+                    Your Highness</person>! </diag>
+            <diag><person xml:id="Emperor" tag="speaker">EMPEROR</person> Deliver conscription
+                notices throughout all the provinces, call up reserves and as many new recruits as
+                possible! </diag>
+            <diag><person xml:id="General" tag="speaker">GENERAL</person> Forgive me, <person
+                    xml:id="Emperor">Your Majesty</person>, but I believe our present force will be
+                sufficient to stop him. </diag>
+            <diag><person xml:id="Emperor" tag="speaker">EMPEROR</person> I won't take any chances,
+                    <person xml:id="General">General</person>. <expression>(then)</expression> A
+                single grain of rice can tip the</diag></pg>
+        <pg pg="3"><diag><person xml:id="Emperor" tag="speaker">EMPEROR</person> scale ... one man
+                may be the difference between victory and defeat.
+                </diag><screen> As he stare.s out at the pale
+        crescent moon ... </screen><term xml:id="Dissolve" tag="transitions"
+                >DISSOLVE TO</term>: <setting type="INT" xml:id="MulansBedroom" time="day">INT.
+                MULAN'S BEDROOM -DAY </setting><sequence n="1.9A">(SEQUENCE 1.9A)</sequence><screen> CLOSE ON a bowl of
+        rice. A pair of chopsticks reach for a mouthful. PAN UP to reveal MULAN, a high-spirited
+        girl of 17 reading a scroll and copying notes onto her arm.</screen>
+            <diag><person xml:id="Mulan" tag="speaker">MULAN</person>
+                <expression xml:id="reading" tag="action">(reading)</expression> ...Quiet and
+                demure. . . graceful ... . . .polite... <expression xml:id="bite" tag="action"
+                    >(taking a bite)</expression> ...umph. . . deligate... <expression
+                    xml:id="mouthFull" tag="action">(mouth full)</expression> ...refined...
+                poised... </diag> She dips her brush in ink and adds one last thing. <diag><person
+                    xml:id="Mulan" tag="speaker">MULAN</person> ...always on time! </diag><setting
+                type="EXT" xml:id="Roof"> EXT. ROOF A <animal xml:id="rooster">ROOSTER</animal>
+                <SFX xml:id="CROW" type="audio">CROWS</SFX></setting>
+            <setting type="INT" xml:id="MulansBedroom">INT. MULAN' S BEDROOM</setting>
+            <person xml:id="Mulan">Mulan</person> looks out the window and quickly gets up.
+                    <diag><person xml:id="Mulan" tag="speaker">MULAN</person><expression
+                    xml:id="Aiya" tag="pitch"> Aii-ya!</expression></diag> She rushes out into
+                <setting type="INT" xml:id="MainRoom">INT. MAIN ROOM</setting><person xml:id="Mulan"
+                > Mulan</person> looks around. <diag><person xml:id="Mulan" tag="speaker"
+                    >MULAN</person> Little brother!</diag>
+            <screen>]</screen>
+            <diag><person xml:id="Mulan" tag="speaker">MULAN</person> Little brother! Lit--</diag>
+            <screen>She stops as she spots her <animal xml:id="dog">dog</animal> lying on the ground.</screen></pg><diag><person
+                xml:id="Mulan" tag="speaker">MULAN</person> Ahh, there you are! </diag>
+        <screen>On an
+        adorable little, stupid<animal xml:id="dog"> dog</animal>.</screen>
+        <diag><person xml:id="Mulan" tag="speaker">MULAN</person>
+            <expression xml:id="playful" tag="pitch">{playfully)</expression> Who's the smartest
+            doggie in the world? C' mon, smart boy ... </diag><screen> The
+        <animal xml:id="dog">dog</animal> pants excitedly. <person xml:id="Mulan">Mulan</person> picks up a bag of grain. </screen><diag><person
+                xml:id="Mulan" tag="speaker">MULAN</person> Ready to do my chores? </diag><screen> Tying the bag to his tail and a chicken leg over his head, she opens the door .. As
+        the dog chases the chicken leg into the yard, the grain bag breaks, sending the <animal xml:id="chicken">chickens</animal>
+        into a feeding frenzy. <person xml:id="Mulan">Mulan</person> watches --<expression tag="thought">it'll do</expression> --and quickly starts to gather teacups.</screen>
+        <setting type="EXT" xml:id="FaFamilyTemple">EXT. FA FAMILY TEMPLE</setting> The hungry dog
+        pursues the leg, running towards the <locaiton xml:id="FaFamilyTemple">TEMPLE</locaiton>
+        <setting type="INT" xml:id="FaFamilyTemple">INT.. FA FAMILY TEMPLE </setting>
+        <person xml:id="FaZhou">FA ZHOU</person>, <person xml:id="Mulan">Mulan</person>'s dignified
+        father, kneels before the ancestral stone beis and lights incense. <diag><person
+                xml:id="FaZhou" tag="speaker">FA ZHOU</person>
+            <expression xml:id="pray" tag="action">{praying)</expression> Honorable Ancestors,
+            please help <person xml:id="Mulan">Mulan</person> impress the <person
+                xml:id="Matchmaker">matchmaker</person> today. </diag> The dog runs in; seconds
+        later the chickens enter, pecking at the spilled grain. <diag><person xml:id="FaZhou"
+                tag="speaker">FA ZHOU</person> Please... please help her. </diag>
+        <setting type="EXT" xml:id="FaFamilyHouse">EXT. FA FAMILY HOUSE</setting>
+        <person xml:id="Mulan">Mulan</person> hurries to the temple, stopping to feed her dog.
+            <setting type="INT" xml:id="FaFamilyTemple">INSIDE THE TEMPLE</setting>
+        <screen> <person xml:id="FaZhou">Fa Zhou</person> slowly
+        rises from the floor with the help of his car1e. He turns to see his beloved, tardy
+        daughter.</screen><diag><person xml:id="FaZhou" tag="speaker">FA ZHOU</person>
+            <person xml:id="Mulan">Mulan</person>, shouldn't you be in the village? * </diag>
+        <diag><person xml:id="Mulan" tag="speaker">MULAN</person>
+            <expression xml:id="tea" tag="action">(sweetly; setting out the tea)</expression> Well,
+            first I have to meet someone special for tea. </diag> She smiles at him; <person
+            xml:id="FaZhou">Fa Zhou</person> tries not to smile, but can't help himself. She's got
+        him. <diag><person xml:id="FaZhou" tag="speaker">FA ZHOU</person> Hrnmrn ‧‧‧ </diag>
+        <screen>ON ONE RED TEACUP among GREEN ONES. Mulan's hand reaches in.</screen>
+        <diag><person xml:id="Mulan" tag="speaker">MULAN</person> Ready? </diag> Mulan spins the
+        tray --as it circles around, they each grab a cup. Fa Zhou holds up the red one.
+                <diag><person xml:id="Mulan" tag="speaker">MULAN</person> How do you always do that?
+            </diag><person xml:id="FaZhou"> Fa Zhou</person> smiles and CHUCKLES, then stops the
+        tray from spinning. <diag><person xml:id="FaZhou" tag="speaker">FA ZHOU</person> As much as
+            I enjoy this ... these games must soon end. <expression xml:id="Warmly" tag="facial"
+                >(then; warmly)</expression> The time has come for you to carry on the family honor. </diag>
+        <person xml:id="Mulan">Mulan</person> looks up at him -<expression xml:id="please"
+            tag="thought">-she wants to please him.</expression>
+        <diag><person xml:id="Mulan" tag="speaker">MULAN</person>
+            <expression xml:id="smile" tag="facial">(small smile)</expression> I won't let you down,
+            Baba. </diag> Full of hope, they sip their tea. <setting type="EXT" xml:id="FrontGate"
+            time="shortlyAfter">EXT. FRONT GATE -SHORTLY AFTER</setting>
+        <person xml:id="Mulan">Mulan</person> comes charging out on <char xml:id="Kahn">KAHN</char>,
+        a magnificent black <animal xml:id="horse">horse</animal>. <diag><person xml:id="Mulan"
+                tag="speaker">MULAN</person> Let's go, <char xml:id="Kahn">Kahn!</char>
+        </diag> She waves at <person xml:id="FaZhou">Fa Zhou</person> before leaping over the
+        wall.</Script>
+</xml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- clk: I am no sure if you still want me to resubmit this exercise but I went super detailed this time -->
+<xml><date month="September" day="10" year="2014">SEP 10, 2014</date>
+<headnote><place> Washington</place> <occupation> author</occupation><person xml:id="Sam"> Sam Fromartz</person> has been making sour dough variations of this yeast bread for years. Here, he adds <item id="cider" type="wet">fermented cider</item> for flavor. A <item id="beer" type="wet">mild beer</item> may be substituted; an <item id="IPA" type="wet">IPA</item> would be too bitter. The loaf is sized to last a few days.
+
+The optional <unit id="tbsp">tablespoon</unit> of <item id="water" type="wet">water</item> is to compensate for the variable absorption of the <item id="flour" type="dry">rye</item> and <item id="flour" type="dry">whole-wheat flours</item>.
+
+You'll need a <utensil id="colander">colander</utensil>, a <utensil id="cloth">pastry cloth</utensil> or <utensil id="towel">clean dish towel</utensil> and a <utensil id="castIron">covered cast-iron</utensil> or <utensil id="castIron">enameled cast-iron pot</utensil>.
+
+<note id="Prep">Make Ahead: The <item id="dough">dough</item> needs four <time duration="20min">20-minute</time> rests, plus an<time duration="8-24hr"> 8-to-24-hour</time> stay in the refrigerator and a final<time duration="1-2hr"> 1 1/2-hour</time> rise.</note>
+
+<note id="storageInstruc">Storage Notes: <action type="store">Store</action> the cooled loaf in a paper bag for a day, and <action type="store">store</action> in a plastic bag for a few days after that. Do not refrigerate.</note>
+<note id="servingSize">
+SERVINGS: 
+<num n="10">10</num> - <num n="12">12</num></note>
+
+    <note id="Test">Tested size: <amount amt="10-12 servings"><num n="10">10</num>-<num n="12">12</num> <unit id="serving">servings</unit></amount>; makes one <num n="11">11</num>-<unit id="ounce">ounce</unit> loaf<num n="10">10</num> to <num n="12">12</num> <unit id="slice">slices</unit></note>
+</headnote>
+<recipe><list id="Ingredients"><header wordDecor="caps">INGREDIENTS</header>
+<ingre n="1"><num n="1.25">1 1/4</num> <unit id="cup">cups</unit> (160 <unit id="gram">grams</unit>) <item id="flour" type="dry">white bread flour</item>, plus more for dusting</ingre>
+<ingre n="2">1/4 <unit>cup</unit> (38 <unit id="gram">grams</unit>) stone-ground <item id="flour" type="dry">whole-wheat flour</item></ingre>
+<ingre n="3">1/4 <unit id="cup">cup</unit> (32 <unit id="gram">grams</unit>) stone-ground <item id="flour" type="dry">whole rye flour</item></ingre>
+<ingre n="4">1/2 <unit id="tsp">teaspoon</unit> <item id="yeast" type="dry">instant yeast</item> or <item id="yeast" type="dry">bread machine yeast</item></ingre>
+<ingre n="5">1 <unit id="tsp">teaspoon</unit> <item id="salt" type="dry">table salt</item></ingre>
+<ingre n="6">1/4 <unit id="cup">cup</unit> (55 <unit id="gram">grams</unit>) dry <item id="cider" type="wet">fermented cider</item> (may substitute <item id="beer" type="wet">Pilsener beer</item>; see headnote)</ingre>
+<ingre n="7">1/2 <unit id="cup">cup</unit> (120 <unit id="gram">grams</unit>) lukewarm<item id="water" type="wet">water</item> (80 <unit id="degree">degrees</unit>), plus an optional 1 <unit id="tbsp">tablespoon</unit></ingre></list>
+<list id="Directions"><header wordDecor="caps">DIRECTIONS</header>
+<step n="1"><action type="whisk">Whisk</action> together the <item id="flour" type="dry">flours</item>, <item id="yeast" type="dry">yeast</item> and <item id="salt" type="dry">salt</item> in a <utensil id="bowl">mixing<utensil id="bowl">bowl</utensil></utensil>. <action type="combine">Combine</action> the <item id="cider" type="wet">cider</item> and<item id="water" type="wet">water</item> in a liquid <utensil id="measuringCup">measuring cup</utensil>.</step>
+
+<step n="2"><action type="add">Add</action> the liquid to the flour mixture; use a <utensil id="spatula">spatula</utensil> or <utensil id="scraper">bench scraper</utensil> or your hand moistened with<item id="water" type="wet">water</item> to <action type="blend">blend</action> them for about a <time duration="1min">minute</time>. The <item id="dough">dough</item> should be shaggy yet cohesive. <action type="cover">Cover</action> the <utensil id="bowl">bowl</utensil> with a <utensil id="towel">towel</utensil>; let the <item id="dough">dough</item> rest for <time duration="20min">20 minutes</time>.</step>
+
+<step n="3">Moisten your kneading hand. If the <item id="dough">dough</item> seems stiff, add the optional <unit id="tbsp">tablespoon</unit> of<item id="water" type="wet">water</item>. <action type="stretch">Stretch</action> one edge of the <item id="dough">dough</item> (still in the <utensil id="bowl">bowl</utensil>), then <action type="press">press</action> it into the center of the<utensil id="bowl">bowl</utensil>. Repeat this about a dozen times, moving clockwise to catch all sides of the <item id="dough">dough</item>. (This should take <time duration="1-2min">1 or 2 minutes</time>.)</step>
+<step n="4">
+<action type="turn">Turn</action> the <item id="dough">dough</item> over so the seams are on the bottom. <action type="turn">Cover</action> and let rest for <time duration="20min">20 minutes</time>. Repeat the clockwise stretching and folding two more times, with <time duration="20min">20-minute</time> rests after each. <action type="cover">Cover</action> and <action type="refridge">refrigerate</action> at least <time duration="8hr">8 hours</time> and up to <time duration="24hr">24 hours</time>. The <item id="dough">dough</item> should have doubled. If it hasn't, leave it on the counter until it does.</step>
+
+<step n="5">Lightly flour a work surface. Use a <utensil id="cloth">pastry cloth</utensil> or clean <utensil id="towel">dish towel</utensil> to line a round <utensil id="colander">colander</utensil>. Dust the <utensil id="cloth">cloth</utensil> with <item id="flour" type="dry">flour</item>.</step>
+
+<step n="6"><action type="transfer">Transfer</action> the <item id="dough">dough</item> to the floured work surface. <action type="fold">Fold</action> the edges toward the center to create a round shape, turning it over so the seams are on the bottom. Let it rest for <time duration="5min">5 minutes</time>, then <action type="transfer">transfer</action> to the <utensil id="colander">colander</utensil>, seam side up. <action type="cover">Cover</action> with a <utensil id="towek">towel</utensil> and let the <item id="dough">dough</item> rise for <time duration="1.5hr">1 1/2 hours</time>.</step>
+
+<step n="7"><time duration="30min">Thirty minutes</time> before baking, place a <utensil id="oven">cast-iron Dutch oven</utensil> (lid on) or <utensil id="castIron">enameled cast-iron pot</utensil> with a lid (on) in the oven; preheat to <amount amt="475F"><num n="475">475</num> <unit id="Farenheit">degrees</unit></amount>.</step>
+<step>
+Carefully remove the hot pot from the oven.</step>
+
+<step n="8"><action type="turn">Turn</action> the <item id="dough">dough</item> out onto the counter so the seams are on the bottom. Use <utensil id="scissors">kitchen scissors</utensil> to make <amount amt="8 snips"> <num n="8">8</num> <unit id="snip">snips</unit></amount> on the top of the <item id="dough">dough</item> in an evenly spaced spoke pattern, each about <amount amt="0.25"><num n="0.25">1/4</num>-<unit id="inch">inch</unit></amount> deep. <action type="lift"Lift</action> the <item id="dough">dough</item> and carefully <action type="drop">drop</action> it into the hot pot. Immediately <action type="cover">cover</action> with the hot lid. Bake for <time duration="30min">30 minutes</time>, then reduce the heat to <amount amt="450F"><num n="450">450</num> <unit id="Fahrenheit">degrees</unit></amount>. Uncover and bake for <time duration="8-10min">8 to 10 minutes</time> or until the crust is dark brown. Try to minimize the amount of time the oven door is open.</step>
+
+<step n="9">The bread is done when its internal temperature registers<amount amt="205 F"> 205 <unit id="Fahrenheit">degrees</unit></amount> on an <utensil id="thermometer">instant-read thermometer</utensil> and the loaf sounds hollow when knocked on the underside.</step>
+<step n="10">
+Transfer the loaf to a <utensil id="rack">wire rack</utensil> to cool for at least <time duration="1hr">1 hour</time> before cutting</step></list>.</recipe></xml>
