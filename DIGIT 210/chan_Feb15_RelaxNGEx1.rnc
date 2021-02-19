@@ -1,0 +1,18 @@
+start = element book {metadata,contents,chapter+}
+metadata = element metadata {(title,author,publisher,source)}
+contents = element contents {head,title+}
+author = element author {text}
+title = element title {text}
+source = element source {type,url}
+type = attribute type {text}
+url = attribute url {text}
+head = element head {text}
+publisher = element publisher {where, when,text}
+where = attribute where {text}
+when = attribute when {text}
+chapter = element chapter {n,title,p+}
+p = element p {mixed{n,quote*}}
+n = attribute n {xsd:integer}
+quote = element quote {mixed{wordCount}}
+wordCount = attribute wordCount {xsd:integer}
+
