@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="maltese.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="chan_Feb19_RelaxNGEx2.rnc" type="application/relax-ng-compact-syntax"?>
 <xml>
     <metadata>
         <title media="radioscript">The Maltese Falcon</title>
