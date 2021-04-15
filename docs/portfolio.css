@@ -1,0 +1,222 @@
+h1
+{
+    color:#4B371C;
+    font-size: 30px;
+    font-family: 'IM Fell English SC', serif;
+    text-align: left;
+	font-weight: 700;
+    margin: 1px;
+}
+
+h2{
+	color:#332114;
+    font-size: 30px;
+   	font-family: 'IM Fell English SC', serif;
+    text-align: center;
+    font-weight: 100;
+    margin: 6px;
+}
+h3
+{
+    color:#21073A;
+    font-size: 20px;
+    font-family: "WickedMouse";
+    text-align: center;
+    font-weight: 20;
+    margin: 6px;
+}
+body
+{
+    background-color: #F7E1C1;
+    font-size: 17px;
+    text-align: center;
+}
+
+a {
+    display: block;
+    color:#3A1E08;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: inherit;
+    font-family: 'IM Fell English', serif;
+    font-weight: 20;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+}
+
+p {
+    font-family: "MouseMemoir";
+    font-weight: 10;
+    letter-spacing: 0.2px;
+    word-spacing: 1px;
+    color: #09142e;
+    font-size: 20px;
+}
+
+.active {
+    background-color: #795C34;
+	color: #BDA37F;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo a{
+	color:#4B371C;
+    font-size: 60px;
+    font-family: 'IM Fell English SC', serif;
+    text-align: left;
+	font-weight: 300;
+    margin: 1px;
+}
+.gallery{
+	border: 1px solid #371D10;
+}
+
+.gallery:hover {
+	border: 2px solid #4A2512;
+}
+
+.gallery img{
+	width: 100%;
+	height: auto;
+	opacity: 0.5;
+}
+
+.desc{
+	padding :15px;
+	text-align: center;
+	font-family: 'IM Fell English', serif;
+	font-size: 20px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+	padding: 0 2px;
+	float: left;
+	width: 24.9999999%;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.textoverlay {
+  position: relative;
+  text-align: center;
+  color: #231709;
+  font-family: 'IM Fell English', serif;
+  font-size: 20px;
+}
+
+.centered mark{
+	background-color: #9A7B4F;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color:#3A1E08;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color:#9A7B4F;
+    color: #371D10;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #BD9865;
+}
+
+.dropdown-content a {
+  float: none;
+  color:#3A1E08;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color:#9A7B4F;
+    color: #371D10;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.navbar {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	float: left;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+/*
+ @font-face {
+  font-family: "Disney";
+  src: url("waltograph/waltograph42.ttf");
+  }
+
+ @font-face {
+  font-family: "WickedMouse";
+  src: url("wicked-mouse/Wicked Mouse Demo.otf");
+  }
+
+ @font-face {
+  font-family: "MouseMemoir";
+  src: url("mouse-memoirs/MouseMemoirs-Regular.ttf");
+  }
+
+font-family: 'IM Fell English', serif;
+font-family: 'IM Fell English SC', serif;
+*/
