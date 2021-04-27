@@ -38,7 +38,7 @@ for t in topThree:
     bar_chartTopThree.add(t[0], t[1])
 
 # print(bar_chart)
-print(bar_chartTopThree.render_to_file('bar_chartTopThree.svg'))
+print(bar_chartTopThree.render_to_file('bar_chartTopThreePunct.svg'))
 
 def nounfinder(words):
     noun = []
@@ -72,5 +72,5 @@ for n in nouncount:
         bar_chartOver10.add(n, nouncount[n])
 
 # print(bar_chart)
-print(bar_chartOver10.render(is_unicode=True), bar_chartTopFive.render_to_file('bar_chartTopFive.svg'),
-bar_chartOver10.render_to_file('bar_chartOver10.svg'))
+print(bar_chartOver10.render(is_unicode=True), bar_chartTopFive.render_to_file('bar_chartTopFiveNoun.svg'),
+bar_chartOver10.render_to_file('bar_chartOver10Noun.svg'))
