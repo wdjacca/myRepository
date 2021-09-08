@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <metadata><title>A PILGRIMAGE TO THE REAL LIFE LOCATIONS OF YOUR NAME </title><subtitle>A
+            STEP-BY-STEP ANIME WALKING TOUR YOU CAN FOLLOW</subtitle>
+        <date when="2017-10-03"/>OCTOBER 3, 2017 • <credit type="author"><wordCount num="3780"/>3780
+            WORDS WRITTEN BY <person xml:id="#nakamine">KANAE NAKAMINE</person></credit> • <credit
+            type="art">ART BY <person ref="nakamine">KANAE NAKAMINE</person> AND <person
+                xml:id="hayakawa">SHUN HAYAKAWA</person></credit>
+    </metadata>
+    <p>During my vacation to <loc xml:id="#jp">Japan </loc>this summer, I went on a pilgrimage. But
+        this wasn't a religious pilgrimage—this was an <term ref="anime">anime</term>
+        pilgrimage.</p>
+    <br/>
+    <p>Actually, certain people might consider <term xml:id="#anime">anime</term> a religious
+        experience. Maybe that's why Japanese people have started using the term
+                <term><romanji>seichijunrei</romanji>
+            <tradJP><kanji>聖地巡礼</kanji>せいちじゅんれい</tradJP></term> to describe visiting real-life
+        locations used in <term ref="anime">anime</term>
+        <comment>this word is usually reserved for trips to sacred places</comment>.</p>
+    <br/>
+    <p>It makes sense when you think of the connection some people have with <term ref="anime"
+            >anime</term>. Personally, I felt a special connection with the film <filmName>Your
+            Name</filmName>, which took the Japanese box office by storm in 2016 <comment>Tofugu
+            loved it so much, we added it to our list of Top 20 <term ref="anime">anime</term> of
+            all time</comment>. I loved the story and characters of course, but the illustrated
+        backgrounds are what moved me most.</p>
+    <br/>
+    <p>Director <person xml:id="#makoto">Shinkai Makoto</person> captured the breathtaking,
+        beautiful scenery of <loc ref="tokyo">Tokyo</loc> in intricate detail. As a former Tokyoite,
+        this made an impact on me. The hand-drawn cityscapes really pulled me into the story.</p>
+    <br/>
+    <p>So when I visited <loc ref="tokyo">Tokyo</loc> during my vacation this past summer, I decided
+        to go on an <term ref="anime">anime</term> pilgrimage and visit locations used in
+            <filmName>Your Name</filmName>. It was such an awesome experience that I wanted to share
+        my personal walking tour with you; 15 sacred <filmName>Your Name</filmName> locations in one
+        day.</p>
+    <br/>
+    <p>If you love the film, I hope this is something you can do on your next trip to <loc
+            ref="tokyo">Tokyo</loc>.</p>
+    <br/>
+    <p>
+        <note>Note: If you haven't seen the movie yet… sorry, this article is full of spoilers
+                <comment>naturally</comment>. Proceed at your own spoil-y risk.</note>
+    </p>
+    <br/>
+    <ul type="TOC">
+        <li xml:id="#1">Before You Start a Your Name Pilgrimage…</li>
+        <li xml:id="#2">Your Name Pilgrimage Itinerary</li>
+        <li xml:id="#3">Salon de Thé Rond <time><timeRange start="1055" end="1145">10:55–11:45
+                    a.m.</timeRange></time>
+            <note>Closed on Tues</note></li>
+        <li xml:id="#4">The National Art Center <time><timeRange start="1145" end="1245">11:45–12:45
+                    a.m.</timeRange></time>
+            <note>Closed on Tues</note></li>
+        <li xml:id="#5">Tokyo City View in Roppongi Hills <time><timeRange start="1300" end="1400"
+                    >1:00–2:00 p.m.</timeRange></time></li>
+        <li xml:id="#6">Yotsuya Station <time><timeRange start="1425" end="1440">2:25–2:40
+                    p.m.</timeRange></time></li>
+        <li xml:id="#7">On the Way to <loc ref="suga">Suga Shrine</loc>
+            <time><timeRange start="1440" end="1520">2:40–3:20 p.m.</timeRange></time></li>
+        <li xml:id="#8">Suga Shrine Stairs <time><timeRange start="1520" end="1600">3:20–4:00
+                    p.m.</timeRange></time></li>
+        <li xml:id="#9">
+            <loc ref="mmpg">Meiji Memorial Picture Gallery</loc>
+            <time>
+                <timeRange start="1620" end="1630">4:20–4:30 p.m</timeRange>
+            </time>
+        </li>
+        <li xml:id="#10">Around <loc ref="shinanomachiSt">Shinanomachi Station</loc>
+            <time><timeRange start="1800" end="1830">6:00–6:30 p.m.</timeRange></time></li>
+        <li xml:id="#11">
+            <loc ref="yunika">Yunika Vision</loc>
+            <time>
+                <timeRange start="1850" end="1910">6:50–7:10 p.m.</timeRange>
+            </time>
+        </li>
+        <li xml:id="#12">Shintoshin Pedestrian Bridge near Takarazuka University <time><timeRange
+                    start="1920" end="1940">7:20–7:40 p.m.</timeRange></time></li>
+        <li xml:id="#13">Intersection Behind Shinjuku Police Station <time><timeRange start="1945"
+                    end="2000">7:45–8:00 p.m.</timeRange></time></li>
+        <li xml:id="#14">Cafe La Bohéme near Shinjuku Gyoen <time><timeRange start="2030" end="2200"
+                    >8:30–10:00 p.m.</timeRange></time></li>
+        <li xml:id="#15">Following the Red Thread to Your Name Locations</li>
+    </ul>
+    <heading ref="1">BEFORE YOU START A YOUR NAME PILGRIMAGE…</heading>
+    <p>Here are some things to prepare/keep in mind before you set off on your religious <term
+            ref="anime">anime</term> journey:</p>
+    <br/>
+    <p>Many places in this article are close to each other so most of the time, walking will be your
+        best option <comment>a pilgrimage should be full of walking anyway</comment>. I recommend
+        wearing comfortable shoes and staying hydrated if you're going in summer. Summer in <loc
+            ref="jp">Japan </loc>is insanely hot.</p>
+    <p>I timed my visits so the lighting conditions at each location would roughly match what is
+        seen in the film. But most of the itinerary ordering is just for convenient transportation.
+        Also, the itinerary is based on my July visit, so if you're traveling in a different season
+        you may have to adjust your plans.</p>
+    <p>I know you want to take great photos on this trip <comment>I did too</comment>, but be
+        mindful of traffic and other people when trying to get that perfect shot. Don't stand in the
+        middle of the road or on a table at a restaurant just to improve your photography.</p>
+    <p>You might run into other <term ref="anime">anime</term> pilgrims <comment>I did, a few
+            times</comment>. Try not to occupy a spot for too long and let other people get in to
+        take their pictures too.</p>
+    <p>You'll probably be super excited when you recognize these place from Your Name, but try not
+        to scream or dance. A lot of the stops are in ordinary neighborhoods where people live and
+        work, so be respectful of their living space.</p>
+    <heading ref="2">YOUR NAME PILGRIMAGE ITINERARY</heading>
+    <p>If you want to find the exact location of each place, check out the handy multi-pin map I
+        made on Google Maps.</p>
+    <br/>
+    <heading ref="3">SALON DE THÉ ROND <comment>10:55–11:45 A.M.</comment> *CLOSED ON
+        TUES.</heading>
+    <p>THE WATER GLASSES AND COASTERS THE CAFE USES ARE SIMILAR TO THE ONES IN THE MOVIE. THE PLATES
+        LOOK IDENTICAL TOO!</p>
+    <br/>
+    <p>I started my pilgrimage in <loc xml:id="#roppongi">Roppongi</loc> where <char xml:id="#taki"
+            >Taki</char> went on a date with his crush at the time, <char xml:id="#okudera"
+            >Okudera-senpai</char>.</p>
+    <br/>
+    <p>In the movie, they start their date in <loc ref="roppongi">Roppongi Hills</loc>, but the
+        first stop on our pilgrimage is the coffee shop where they had lunch. It's called <loc
+            xml:id="#salon">Salon de Thé Rond</loc>, located on the second floor of the<loc
+            xml:id="#artcentre"> National Art Center</loc>.</p>
+    <br/>
+    <p>There's no admission fee to get into the building, so you have free access to this coffee
+        shop. It opens at <time tm="1100">11:00 a.m.</time> so I went up to the third floor a little
+        before then and took some pictures from above. From this angle, I got a great shot of the
+        modern, stylish architecture of the museum and the coffee shop.</p>
+    <br/>
+    <picalt>fancy coffee shop featured in your name</picalt>
+    <p>As soon as <time tm="1100">11:00 a.m.</time> rolled around, I went into the coffee shop for
+        an early lunch. I was the first customer! They didn't serve exactly the same dish <char
+            ref="taki">Taki</char> and <char ref="okudera">Okudera-senpai</char> ate in the film, so
+        I picked the closest thing I could find which was a sandwich and corn soup meal. The portion
+        size was small, but it filled me up enough to walk the rest of the day.</p>
+    <br/>
+    <picalt>food at salon de the rond</picalt>
+    <p>This is a small thing, but the water glasses and coasters the cafe uses are similar to the
+        ones in the movie. The plates look identical too! Just a nice detail for all us Your Name
+        superfans out there.</p>
+    <br/>
+    <heading ref="4">THE NATIONAL ART CENTER <comment>11:45–12:45 A.M.</comment> *CLOSED ON
+        TUES.</heading>
+    <p>After lunch, I explored the <loc ref="artcentre">National Art Center</loc>. I've visited for
+        art exhibitions before, but this time I focused on the space around the exhibits. After
+        seeing Your Name, I had a much greater appreciation for the architecture.</p>
+    <br/>
+    <p>If you watch the movie carefully, you'll notice the finer details of the museum aren't
+        replicated exactly, but the signature features of the building <comment>the glass maps and
+            wooden walls</comment> are there. They really help you picture <char ref="taki"
+            >Taki</char> and <char ref="okudera">Okudera-senpai</char> as an urban couple.</p>
+    <br/>
+    <picalt>national art center in your name</picalt>
+    <p>During my visit, there were a few art exhibits going on. I checked out one showing
+        contemporary art from <loc xml:id="SEAsia">Southeast Asia</loc>. This wasn't related to the
+        movie, but going to art exhibitions in <loc ref="roppongi">Roppongi</loc> is a classic date
+        for <loc ref="tokyo">Tokyo</loc> locals. So taking in the art is like walking in <char
+            ref="taki">Taki</char> and <char ref="okudera">Okudera-senpai</char>'s footsteps.</p>
+    <br/>
+    <picalt>national art center in roppongi</picalt>
+    <p><note>Side note: if you're visiting <loc ref="tokyo">Tokyo</loc> in <date month="nov"
+            />November or<date month="dec"/> December this year <comment><date year="2017"
+                />2017</comment>, the <loc ref="artcentre">National Art Center</loc> will have a
+                <person ref="makoto">Shinkai Makoto</person> art exhibit. Checking out original art
+            by the director of Your Name in a location from Your Name; that might be the ultimate
+                <term ref="anime">anime</term> pilgrimage experience</note>.</p>
+    <br/>
+    <p>I can't make it, so let me know how it is.</p>
+    <br/>
+    <p>And if you're reading this after <date year="2017"/>2017, sorry. The otaku event of your
+        dreams is over and will never come again.</p>
+    <br/>
+    <p>The next spot is an observation deck in <loc ref="roppongi">Roppongi Hills</loc>. You can
+        walk there from the <loc ref="artcentre">National Art Center</loc> in about <time
+            duration="15">fifteen minutes</time>.</p>
+    <br/>
+    <heading ref="5">TOKYO CITY VIEW IN ROPPONGI HILLS <comment>1:00–2:00 P.M.</comment></heading>
+    <p>IN YOUR NAME, TAKI AND OKUDERA-SENPAI GO TO THE OBSERVATION DECK CALLED TOKYO CITY VIEW.</p>
+    <br/>
+    <p><loc ref="roppongi">Roppongi Hills</loc> is a huge complex of commercial facilities like
+        shops, movie theaters, and restaurants. In Your Name, <char ref="taki">Taki</char> and <char
+            ref="okudera">Okudera-senpai</char> go to the observation deck called <loc xml:id="#tcv"
+            >Tokyo City View</loc>. It costs at least <money cost="1800">¥1,800</money> to get in,
+        but sometimes you have to sacrifice for your <term ref="anime">anime</term> journey.</p>
+    <br/>
+    <p>Unfortunately, during my visit to the observation deck, there was a partition blocking part
+        of the space, so I couldn't back up far enough to get a photo with a composition similar to
+        the one in the movie.</p>
+    <br/>
+    <p>Besides that, I had a great time. It was my first time at <loc ref="tcv">Tokyo City
+            View</loc> and I got to see the city landscape stretching out all the way to Tokyo
+        Tower. It was an awesome view!</p>
+    <br/>
+    <picalt>tokyo city view in your name and roppongi</picalt>
+    <p>If you've got time, there's an art gallery <comment>on the same floor) and an art museum (one
+            floor down</comment>. My ticket to the observation deck included the downstairs art
+        museum too, so I popped in there for a bit.</p>
+    <br/>
+    <p>The next stop is <time duration="25">twenty-five minutes</time> away. So we'll need to hop on
+        the <loc xml:id="oedo">Ōedo line</loc> from <loc ref="roppongi">Roppongi</loc> Station to
+        get there.</p>
+    <br/>
+    <heading ref="6">YOTSUYA STATION <comment>2:25–2:40 P.M.</comment></heading>
+    <p>This is the station where <char ref="taki">Taki</char> and <char ref="okudera"
+            >Okudera-senpai</char> meet up for their date. I know I reversed the order of the places
+        they visited, but I did this to avoid the crowds and get better photos. Order and timing
+        will make or break an <term ref="anime">anime</term> pilgrimage.</p>
+    <br/>
+    <p><loc xml:id="#yotsuyaSt">Yotsuya Station</loc> also shows up later in the film when <char
+            ref="taki">Taki</char> and <char ref="okudera">Okudera-senpai</char> meet up to take a
+        walk and talk about their trip to <loc xml:id="itomori">Itomori-chō</loc> a few years
+        before.</p>
+    <br/>
+    <p>If you want to get the best shot, leave the station from the <loc xml:id="#akasaka">Akasaka
+            exit</loc>. Turn around and look back…</p>
+    <br/>
+    <picalt>yotsuyaSt station exit</picalt>
+    <p>You'll get a photo similar to the scene above.</p>
+    <br/>
+    <p>Now turn to your right…</p>
+    <br/>
+    <picalt>real life location in your name film</picalt>
+    <p>Snap a photo of this iconic view.</p>
+    <br/>
+
+    <p>There's also these stairs on your righthand side, if you're facing the station.</p>
+    <br/>
+    <picalt>yotsuyaSt station steps in your name anime</picalt>
+    <p><loc ref="yotsuyaSt">Yotsuya Station</loc> is a major commuter station, so be careful with
+        crowds while you take pictures.</p>
+    <br/>
+
+    <p>Next, let's walk to <loc xml:id="#suga">Suga Shrine</loc>; it only takes about <time
+            duration="15">fifteen minutes</time>
+        <comment>though I stopped at a few Your Name places on my way there</comment>.</p>
+    <br/>
+    <heading ref="7">ON THE WAY TO SUGA SHRINE <comment>2:40–3:20 P.M.</comment></heading>
+    <p>The spots between <loc ref="yotsuyaSt">Yotsuya Station</loc> and <loc ref="suga">Suga
+            Shrine</loc> are pretty important for us Your Name fans; they're featured during the
+        climax of the film when <char ref="taki">Taki</char> and <char xml:id="#mitsuha"
+            >Mitsuha</char> are trying to find each other <comment>you know, the part where you were
+            crying so hard you could barely see the screen</comment>.</p>
+    <br/>
+    <picalt>japanese street signs</picalt>
+    <p>Here's one of the spots. Do you recognize these signs? If you do, congratulations! You
+        deserve the title: Your Name nerd. This scene was like less than a second long in the movie.
+            <comment>How many times have you seen it, anyway?</comment></p>
+    <br/>
+
+    <p>From <loc ref="yotsuyaStSt">Yotsuya Station</loc>, head toward <loc xml:id="#yotsuyaSan"
+            >Yotsuya Sanchōme</loc>, walking on the left side of the street, <loc xml:id="#shinjuku"
+            >Shinjuku Dōri</loc>. You'll run into a Lawson 100 convenience store. Take a left from
+        there. You'll see these signs!</p>
+    <br/>
+    <picalt>fork in the road at mitsumata</picalt>
+    <p>When you're done adoring this spot, go back to <loc ref="shinjuku">Shinjuku Dōri</loc> and
+        keep walking the same direction.</p>
+    <br/>
+
+    <p>Not far from the last spot, you'll find a Softbank, then a Kinko's. Take a left again and
+        keep going down the street.</p>
+    <br/>
+    <picalt>japanese post box used in your name <term ref="anime">anime</term> movie</picalt>
+    <p>You'll find a crossroads with this postbox.</p>
+    <br/>
+
+    <p>At the crossroads, take the wider path on your left. You'll end up at the next spot.</p>
+    <br/>
+    <picalt>intersection leading to suga shrine</picalt>
+    <p>It's another intersection close to the shrine's stairs <comment>you Your Name otaku out there
+            know how special the stairs are going to be</comment>.</p>
+    <br/>
+    <p>When I was here, a bike was left in nearly the same spot as in the movie! I almost moved it
+        to the exact same position to get the perfect photo… but that would have been bad manners in
+            <loc ref="jp">Japan </loc><comment>or anywhere, really</comment>. So don't do it, if
+        you're thinking about it.</p>
+    <br/>
+
+    <p>Now hold on to your butts. Here comes the highlight of the entire pilgrimage.</p>
+    <br/>
+    <heading ref="8">SUGA SHRINE STAIRS <comment>3:20–4:00 P.M.</comment></heading>
+    <p>The stairs of <loc ref="suga">Suga Shrine</loc> are the absolute culmination of the film. The
+        scene is definitely the most impressive and iconic in all of Your Name. You probably
+        remember it from the promotional images before you even saw the movie.</p>
+    <br/>
+    <picalt>suga shrine staircase in real life</picalt>
+    <p>Of course, this promotional image <comment>with <char ref="taki">Taki</char> and <char
+                ref="mitsuha">Mitsuha</char> in school uniforms</comment> isn't replicated exactly
+        in the film itself. Also the buildings on the right side of the stairs are a little
+        different in real life. But you know those artists, always emphasizing height differences to
+        make things more dramatic.</p>
+    <br/>
+    <p>The background used in the actual film is much closer to reality.</p>
+    <br/>
+    <picalt>suga shrine steps in your name <term ref="anime">anime</term> film</picalt>
+    <p>THE STAIRS OF SUGA SHRINE ARE THE ABSOLUTE CULMINATION OF THE FILM. THE SCENE IS DEFINITELY
+        THE MOST IMPRESSIVE AND ICONIC IN ALL OF YOUR NAME.</p>
+    <br/>
+    <p>When I was here, there were a few other pilgrims; some Japanese high school girls and Chinese
+        tourists. They took their pictures and quickly and left, probably off to the rest of the
+        locations on the pilgrimage.</p>
+    <br/>
+    <p><loc ref="suga">Suga Shrine</loc> is a super ordinary place. If you haven't seen Your Name,
+        it won't seem special at all. A random guy talked to me at the top of stairs, wondering why
+        I was taking pictures of the street and not the shrine behind me. He was visiting for shrine
+        purposes and didn't have any idea why people were there but not visiting the shrine.</p>
+    <br/>
+    <p>Of course, it's a sacred place for Your Name pilgrims like you and me. For some reason, I had
+        trouble leaving this place. I just didn't want to…</p>
+    <br/>
+    <p>But, I'm a grownup. I finally left and headed to the next spot: <loc xml:id="#mmpg">Meiji
+            Memorial Picture Gallery</loc> in <loc xml:id="meiji">Meiji Jingu Gaien-mae</loc>. It's
+        a bit far from <loc ref="suga">Suga Shrine</loc>, but still within walking distance. You can
+        get there in about <time duration="20">twenty minutes</time>.</p>
+    <br/>
+
+    <heading ref="9">MEIJI MEMORIAL PICTURE GALLERY <comment>4:20–4:30 P.M.</comment></heading>
+    <p>This scene isn't particularly important in the film, but I recognized the <loc ref="mmpg"
+            >Meiji Memorial Picture Gallery</loc> building from one of the scenes where <char
+            ref="mitsuha">Mitsuha</char> and <char ref="taki">Taki</char> switch bodies, and <char
+            ref="mitsuha">Mitsuha</char> is excited to see Tokyo <comment>I personally really like
+            those scenes</comment>. So, I decided to include it in the pilgrimage.</p>
+    <br/>
+    <picalt>meiji memorial picture gallery</picalt>
+    <p>Actually, this is the moment I got most hyped during the whole pilgrimage. Check out the sign
+        behind those three guys, the green one with the beer on it. It was actually there at the
+        real life location! I didn't expect this at all, because it's an advertisement for a beer
+        garden, which is a summer-only restaurant. Pretty lucky, eh? It won't be there forever.</p>
+    <br/>
+    <p>I read online that the coffee shop the characters went to after this scene <comment><char
+                ref="mitsuha">Mitsuha</char> always wanted to visit a fancy Tokyo coffee shop,
+            remember?</comment> is modeled after one from this area. Unfortunately, it closed down
+        for good so we'll never know how accurate it was. 😭</p>
+    <br/>
+    <p>I wanted to get a shot of the next spot at dusk so I went back to <loc xml:id="#shinanochoSt"
+            >Shinanochō Station</loc> for a one hour break at a coffee shop <comment>I was getting
+            tired anyway</comment>. If you go on this pilgrimage in winter instead of summer, you
+        may not need to wait for dusk because of the daylight time difference.</p>
+    <br/>
+
+    <heading ref="10">AROUND SHINANOMACHI STATION <comment>6:00–6:30 P.M.</comment></heading>
+    <p>After the coffee, I was refreshed and ready to start my pilgrimage again. This time I headed
+        to <loc xml:id="#shinanomachiSt">Shinanomachi Station</loc> for two pilgrimage spots.</p>
+    <br/>
+    <p>One is a pedestrian bridge stretching over the road in front of <loc ref="shinanomachiSt"
+            >Shinanomachi Station</loc>. It shows up twice in the film, at the end of both times
+            <char ref="taki">Taki</char> meets <char ref="okudera">Okudera-senpai</char>.</p>
+    <br/>
+    <p>Personally, I resonated more with the scene after the date <comment>the first time they
+            met</comment>, because this is where <char ref="taki">Taki</char> starts having feelings
+        for <char ref="mitsuha">Mitsuha</char>. After <char ref="okudera">Okudera-senpai</char>
+        leaves, <char ref="taki">Taki</char> gets a text from <char ref="mitsuha">Mitsuha</char> and
+        then tries to call her.</p>
+    <br/>
+    <picalt>pedestrian bridge in your name</picalt>
+    <p>Although the bridge and trees looked same, there was a building there in real life that
+        wasn't in the movie. Excuse me, building, but you're not canon!</p>
+    <br/>
+
+    <p>Nearby the pedestrian bridge, there's a famous landmark of the Shinjuku/Yoyogi area: the <loc
+            xml:id="#NTT">NTT Docomo Yoyogi Building</loc>, which also shows up in Your Name.</p>
+    <br/>
+    <picalt>ntt docomo tower in shinjuku</picalt>
+    <p>If you exit the bridge on the station side, you'll see the tower at a similar angle to what
+        you'll see in the film.</p>
+    <br/>
+
+    <p>Next I headed to the Shinjuku area. Take the JR Chūō Line for about <time duration="6">six
+            minutes</time> to <loc xml:id="#shinjukuSt">Shinjuku Station</loc>.</p>
+    <br/>
+    <heading ref="11">YUNIKA VISION <comment>6:50–7:10 P.M.</comment></heading>
+    <p>The first stop in Shinjuku is <loc xml:id="#yunika">Yunika Vision</loc>. It's a giant piece
+        of digital signage that broadcasts news footage and advertisements. In the film, commuters
+        watched the screen for coverage of the fall of the Tiamat comet.</p>
+    <br/>
+    <picalt>yunika vision with tiamat comet</picalt>
+    <p>To get to <loc ref="yunika">Yunika Vision</loc>, leave through the east exit of <loc
+            ref="shinjukuSt">Shinjuku Station</loc>. With the station to your back, take a left,
+        then keep walking straight, parallel with the train line. You'll hit <loc ref="yunika"
+            >Yunika Vision</loc> in about <time duration="3">three minutes</time>.</p>
+    <br/>
+    <p>This is the most crowded place on our itinerary so be careful of pedestrians when taking
+        pictures.</p>
+    <br/>
+
+    <p>Now it's time to move to the other side of Shinjuku. Stay on the same side of the street,
+        across from <loc ref="yunika">Yunika Vision</loc>. Head under the railway bridge.</p>
+    <br/>
+    <heading ref="12">SHINTOSHIN PEDESTRIAN BRIDGE NEAR TAKARAZUKA UNIVERSITY <comment>7:20–7:40
+            P.M.</comment></heading>
+    <p>After about <time duration="7">seven minutes</time> of walking, you'll see a pedestrian
+        bridge.</p>
+    <br/>
+    <picalt>your name real life location</picalt>
+    <p>Remember this? This is the scene where <char ref="taki">Taki</char> and <char ref="mitsuha"
+            >Mitsuha</char> cross paths in the snow <comment>they kind of recognize each other but
+            don't acknowledge it</comment>.</p>
+    <br/>
+    <p>If you want to view the bridge from a similar angle to the film, stop near Cafe Veloce.</p>
+    <br/>
+
+    <p>If you walk up to the pedestrian bridge, you'll see another scene from Your Name…</p>
+    <br/>
+    <picalt>pedestrian bridge in tokyo</picalt>
+    <p>REMEMBER THIS? THIS IS THE SCENE WHERE TAKI AND MITSUHA CROSS PATHS IN THE SNOW <comment>THEY
+            KIND OF RECOGNIZE EACH OTHER BUT DON'T ACKNOWLEDGE IT</comment>.</p>
+    <br/>
+    <p>Of course, it wasn't snowing when I was here in July, but check out those familiar letters in
+        the window on the left side.</p>
+    <br/>
+    <p>In the film the blue letters are a logo plus "Chonschon<comment>?</comment>," but in reality
+        the letters say "Johnson" with the logo in place of the letter "J." Turns out,
+        Johnchonschonson is a translation company. Thankfully, they all work late so the lights were
+        on in the office when I took this photo.</p>
+    <br/>
+
+    <p>The next spot isn't too far away, just a <time duration="5">five minute</time> walk, but the
+        route there is confusing and it's easy to get lost if you don't know the way. For those not
+        using Google Maps, here are the directions:</p>
+    <br/>
+    <p>Exit the pedestrian bridge nearest the building with the big curvy slide thing on the side of
+        it <comment>you'll know it when you see it</comment>. You'll see a Family Mart and a
+        Starbucks on the right side of the building. Go straight and take a left after you cross the
+        first intersection. Keep going and you'll find LOVE. Sorry, lonely hearts, in this case LOVE
+        is a statue by American artist Robert Indiana.</p>
+    <br/>
+    <heading ref="13">INTERSECTION BEHIND SHINJUKU POLICE STATION <comment>7:45–8:00
+        P.M.</comment></heading>
+    <p>After passing by LOVE, you'll see our next sacred pilgrimage spot.</p>
+    <br/>
+    <picalt>traffic light used in your name anime</picalt>
+    <p>In the film, this traffic light is featured during a short time lapse, after <char
+            ref="mitsuha">Mitsuha</char> and <char ref="taki">Taki</char> first realize they've
+        switched bodies. If you're familiar with Shinjuku you might recognize the building directly
+        behind it: cocoon tower.</p>
+    <br/>
+    <p>If you want to snap a pic with a similar angle, try a wide angle lens <comment>unfortunately,
+            I didn't have one</comment>. Also, don't stand in the road! I saw a few other Your Name
+        pilgrims standing in the street trying to snap their photos and it looked dangerous to say
+        the least.</p>
+    <br/>
+
+    <p>The next stop on the pilgrimage is a bit far, but I walked anyway <comment>it takes about
+                <time duration="25">twenty-five minutes</time></comment>. Walking through Shinjuku
+        is fun, so it's worth the extra time, I think.</p>
+    <br/>
+    <p>You could also take the Tokyo Metro: hop on the Marunouchi line from Nishi-Shinjuku Station
+        and get off at Shinjukugyoen-mae Station.</p>
+    <br/>
+    <heading ref="14">CAFE LA BOHÉME NEAR SHINJUKU GYOEN <comment>8:30–10:00
+        P.M.</comment></heading>
+    <p>We've finally come to the grand finale of our pilgrimage. The last stop is the restaurant
+        where <char ref="taki">Taki</char> and <char ref="okudera">Okudera-senpai</char> work. In
+        reality, the restaurant is called Cafe La Bohéme <tradJP>カフェ ラ・ボエム</tradJP>.</p>
+    <br/>
+    <picalt>restaurant where taki works in your name</picalt>
+    <p>In Your Name, the restaurant is bigger and located next to a busy road, but the actual spot
+        is in a nice, quiet area next to Shinjuku Gyoen.</p>
+    <br/>
+    <p>One of our dear readers let us know that the name of the restaurant in the movie, Il Giardino
+        delle Parole, means "The Garden of Words" in Italian. No need to explain for fans of
+        Shinkai's work, but that's the name of his previous movie, which was based on Shinjuku
+        Gyoen. Such a neat detail!</p>
+    <br/>
+    <p>The restaurant is not-too-casual and they have a dress code. If you want to come in to eat
+        and take photos, don't wear sweatpants, shorts, T-shirts, or Pikachu pajamas.</p>
+    <br/>
+    <p>I celebrated the end of my pilgrimage with dinner at this restaurant. I was there at 8:00
+        p.m. on a weekday, so it wasn't busy. I liked having a low-key dinner at the end of all that
+        walking.</p>
+    <br/>
+    <picalt>inside cafe la boheme shinjuku gyoen</picalt>
+    <p>The big windows, servers' uniforms and upstairs kitchen all reminded me of Your Name. I
+        ordered the pizza with tomato and ground meat. It was delicious <comment>and didn't have any
+            toothpicks in it either</comment>.</p>
+    <br/>
+    <p>The other food and drinks were also quite tasty, and the price was reasonable for a nice
+        restaurant like this. I would come back here even when I'm not on an <term ref="anime"
+            >anime</term> pilgrimage.</p>
+    <br/>
+
+    <p>FOLLOWING THE RED THREAD TO YOUR NAME LOCATIONS</p>
+    <p>THERE'S ALSO A FICTIONAL CITY IN THE MOVIE CALLED, ITOMORICHŌ. IF YOU LIKE THIS ARTICLE,
+        MAYBE I'LL GO TO HIDA AND LAKE SUWA <comment>THE PLACES THAT INSPIRED IT</comment> FOR A
+        SECOND YOUR NAME PILGRIMAGE.</p>
+    <br/>
+    <p>Unfortunately, I couldn't cover all the sacred Your Name spots in Tokyo, but I think this
+        itinerary is a successful one day walking tour with enough time to enjoy each location.</p>
+    <br/>
+    <p>Taking photos of things I'd seen dozens of times in the movie, but never actually experienced
+        was so much fun. It was like a scavenger hunt! Finding little connections between the actual
+        location and Your Name <comment>like the beer garden sign</comment> was very rewarding. I
+        told you about a few of these little details, but I'm sure you'll find even more when you go
+        yourself.</p>
+    <br/>
+    <p>And you should go soon. <person xml:id="#jjabrams">JJ Abrams</person> just started work on a
+        live action Hollywood adaptation of Your Name <comment>which I'm sure will be stellar
+            😒</comment>. With popularity growing, these spots are bound to get more and more
+        crowded as time goes on.</p>
+    <br/>
+    <p>Of course, the real life Your Name locations are not as beautiful as they are in the film.
+        After all, there aren't any gigantic animators airbrushing the streets of Tokyo each day.
+        But seeing the inspirations for Shinkai Makoto's imaginative story was a wonderful
+        experience. It gave me a much deeper connection to the film and city.</p>
+    <br/>
+    <p>As I'm sure you already know <comment>because you're a huge Your Name fan like me</comment>,
+        there's another city in the movie called, <loc xml:id="#itomoricho">Itomorichō</loc>. It's
+        the rural town where <char ref="mitsuha">Mitsuha</char> grew up. Unfortunately, <loc
+            ref="itomoricho">Itomorichō</loc> is not real; it's a completely fictional place, but
+        some Your Name pilgrims have been visiting Hida in Gifu and Lake Suwa in Nagano, which were
+        both models for <loc ref="itomoricho">Itomorichō</loc>.</p>
+    <br/>
+    <p>If you like this article, maybe I'll go there for a second Your Name pilgrimage. That way we
+        can get out of <loc ref="tokyo">Tokyo</loc> and experience Japanese life in the inaka. If
+        you're itching for a sequel pilgrimage, let us know on Facebook, Twitter, or old-fashioned
+        email.</p>
+    <br/>
+    <p>See you at <loc ref="suga">Suga Shrine</loc>!</p>
+</xml>

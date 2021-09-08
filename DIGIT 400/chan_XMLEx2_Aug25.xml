@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <head>
+        <cat swSa="sw" type="dessert">Cookies</cat>
+        <title>Original NESTLÉ® TOLL HOUSE® Chocolate Chip Cookies</title>
+        <rating type="star">4.3</rating>
+        <rating type="review">(2607)</rating>
+        <prompt>Write A Review</prompt>
+        <division level="easy">Level Easy</division>
+        <data type="preptime" time="15min">Prep 15 minutes</data>
+        <data type="cooktime" time="9min">Cook 9 minutes</data>
+        <data type="serving" amt="60">Servings 5 dozen cookies</data>
+        <note>The chocolate chip cookie that started it all! NESTLÉ® TOLL HOUSE® original chocolate
+            chip cookies are a true classic and the go-to cookie for all occasions!</note>
+    </head>
+
+    <recipe>
+        <ingList>
+            <heading>Ingredients</heading>
+            <ingre type="dry" name="flour" id="fl"><quantity amt="2.25" unit="cup">2 1/4
+                    cups</quantity> all-purpose flour</ingre>
+            <ingre type="dry" name="bksoda" id="sd"><quantity amt="1" unit="cup">1
+                    teaspoon</quantity> baking soda </ingre>
+            <ingre type="dry" name="salt" id="sa"><quantity amt="1" unit="tsp">1 teaspoon</quantity>
+                salt </ingre>
+            <ingre type="wet" name="butter" id="bt"><quantity amt="1" unit="cup">1 cup</quantity>
+                    (<quantity amt="2" unit="sticks">2 sticks</quantity>) butter,
+                    <specialInstr>softened</specialInstr>
+            </ingre>
+            <ingre type="dry" name="sugar" id="su"><quantity amt="0.75" unit="cup">3/4
+                    cup</quantity> granulated sugar </ingre>
+            <ingre type="dry" name="brwnsugar" id="bs"><quantity amt="0.75" unit="cup">3/4
+                    cup</quantity>
+                <specialInstr>packed</specialInstr> brown sugar </ingre>
+            <ingre type="wet" name="vanilla" id="va"><quantity amt="1" unit="tsp">1
+                    teaspoon</quantity> vanilla extract </ingre>
+            <ingre type="wet" name="egg" id="eg"><quantity amt="2" unit="egg">2</quantity> large
+                eggs </ingre>
+            <ingre type="dry" name="chocolate" id="ch"><quantity amt="2" unit="cup">2
+                    cups</quantity> (<quantity amt="12" unit="ounce">12-ounce</quantity> package)
+                NESTLÉ® TOLL HOUSE® Semi-Sweet Chocolate Morsels </ingre>
+            <ingre type="dry" name="nut" id="nu"><quantity amt="1" unit="cup">1 cup</quantity>
+                chopped nuts <specialInstr>(Optional. If omitting, add <quantity amt="1-2"
+                        unit="tbsp">1 to 2 Tbsp.</quantity> of all-purpose
+                flour.)</specialInstr></ingre>
+        </ingList>
+        <construct>
+            <heading>Make It</heading>
+            <step num="1"><heading>Step 1</heading> Preheat <equip name="oven" id="ov">oven</equip>
+                to <temp amt="375" unit="F">375° F</temp>.</step>
+            <step num="2"><heading>Step 2</heading> Combine <ingre id="fl">flour</ingre>, <ingre
+                    id="sd">baking soda</ingre> and <ingre id="sa">salt</ingre> in <utensil
+                    name="bowl" id="bl">small bowl</utensil>. Beat <ingre id="bt">butter</ingre>,
+                    <igre id="su">granulated sugar</igre>, <ingre id="bs">brown sugar</ingre> and
+                    <ingre id="va">vanilla extract</ingre> in <utensil name="bowl" id="bl">large
+                    mixer bowl</utensil> until creamy. Add <ingre id="eg">eggs</ingre>, one at a
+                time, beating well after each addition. Gradually beat in flour mixture. Stir in
+                    <ingre id="ch">morsels</ingre> and <ingre id="nu">nuts</ingre>. Drop by <utentil
+                    name="tablespoon" id="tbsp">rounded tablespoon</utentil> onto ungreased baking
+                sheets.</step>
+            <step num="3"><heading>Step 3</heading> Bake for <data type="baketime" time="9-11min">9
+                    to 11 minutes</data> or until golden brown. Cool on baking sheets for <data
+                    type="cooltime" time="2min">2 minutes</data>; remove to wire racks to cool
+                completely. <specialInstr>For High Altitude Baking (<data type="altitude"
+                        amt="5200ft">5,200 feet</data>): Increase <ingre id="fl">flour</ingre> to
+                        <quantity amt="2.5" unit="cup">2 1/2 cups</quantity>. Add <quantity amt="2"
+                        unit="tsp">2 teaspoons</quantity>
+                    <ingre type="wet" name="water" id="wa">water</ingre> with <ingre id="fl"
+                        >flour</ingre> and reduce both <ingre id="su">granulated sugar</ingre> and
+                        <ingre id="bs">brown sugar</ingre> to <quantity amt="0.66" unit="cup">2/3
+                        cup </quantity>each. Bake drop cookies for <data type="baketime"
+                        time="8-10min">8 to 10 minutes</data> and pan cookie for <data
+                        type="baketime" time="17-19min">17 to 19
+                minutes</data>.</specialInstr></step>
+        </construct>
+    </recipe>
+</xml>
