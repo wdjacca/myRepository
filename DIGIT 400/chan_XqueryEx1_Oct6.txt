@@ -1,0 +1,13 @@
+# XPath , XQuery Ex 1
+
+4. `doc('/db/smashtiers/supersmashtierlist.xml')//char`
+
+Results: 61 results
+
+5. `doc('/db/smashtiers/supersmashtierlist.xml')//char[child::game[@n="3"]]`
+
+Results: 35 results
+
+6. `doc('/db/smashtiers/supersmashtierlist.xml')//char[child::game[@n="3"]]/@id!data()`
+
+Results: 35 results

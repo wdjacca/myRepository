@@ -45,7 +45,7 @@ a {
 }
 
 p {
-    font-family: "MouseMemoir";
+    font-family: 'IM Fell English', serif;
     font-weight: 10;
     letter-spacing: 0.2px;
     word-spacing: 1px;
@@ -200,6 +200,14 @@ p {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
 /*
  @font-face {
