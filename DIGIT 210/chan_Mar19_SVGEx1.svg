@@ -4,13 +4,13 @@
     <desc>SVG Exercise 1</desc>
     <g alignment-baseline="baseline">
         <!-- jkc: the axis -->
-        <line x1="10" y1="800" x2="900" y2="800" stroke="black" stroke-width="3"/>
-        <line x1="11" y1="50" x2="11" y2="800" stroke="black" stroke-width="3"/>
+        <line x1="10" y1="600" x2="900" y2="600" stroke="black" stroke-width="3"/>
+        <line x1="11" y1="50" x2="11" y2="600" stroke="black" stroke-width="3"/>
         <!-- jkc: the bars -->
-        <rect x="50" y ="396" width="50" height="404" fill="blue"/>
-        <text x="50" y="820" fill="black" style="font-family:sans-serif;font-size:15px;">Tahiti - 404 </text>
-        <line x1="200" y1="800" x2="200" y2="735" stroke-width="50" stroke="red"/>
-        <text x="235" y="710" fill="black" style="font-family:sans-serif;font-size:15px; writing-mode: tb; glyph-orientation-horizontal: 5">Raiatea - 65 </text>
+        <rect x="50" y ="196" width="50" height="404" fill="blue"/>
+        <text x="50" y="620" fill="black" style="font-family:sans-serif;font-size:15px;">Tahiti - 404 </text>
+        <line x1="200" y1="600" x2="200" y2="735" stroke-width="50" stroke="red"/>
+        <text x="235" y="410" fill="black" style="font-family:sans-serif;font-size:15px; writing-mode: tb; glyph-orientation-horizontal: 5">Raiatea - 65 </text>
         <rect x="300" y ="700" width="50" height="100" fill="purple"/>
         <text x="290" y="690" fill="black" style="font-family:sans-serif;font-size:15px; glyph-orientation-vertical: 5">Tongatapu - 100</text>
     </g>
