@@ -242,7 +242,21 @@ ul.review li{
     font-family: 'IM Fell English', serif;
     list-style: square;
 }
-
+ul.review a{
+    font-size: 18px;
+    font-family: 'IM Fell English', serif;
+    list-style: square;
+	text-decoration: underline;
+	text-align: left;
+}
+ul.review li.unlisted{
+    font-size: 18px;
+    font-family: 'IM Fell English', serif;
+    list-style: square;
+	text-decoration: underline;
+	text-align: left;
+	list-style: none;
+}
 figcaption{
     font-size: 11px;
     font-family: 'IM Fell English', serif;
